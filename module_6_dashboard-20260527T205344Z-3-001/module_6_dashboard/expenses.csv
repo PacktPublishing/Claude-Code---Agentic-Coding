@@ -1,0 +1,2109 @@
+date,category,amount,department,vendor
+2024-05-01,  Information Technology ,179.35,Finance, GitHub  
+2024-05-01,IT,311.57,Engineering,Zoom
+2024-05-02,Marketing,419.99,Sales,LinkedIn Ads
+2024-05-02,IT,374.40,Sales,AWS
+2024-05-03,IT,678.19,Operations,Salesforce
+2024-05-03,Marketing,110.73,Engineering,Google Ads
+2024-05-03,Travel,199.53,Operations,Booking.com
+2024-05-03,Professional Services,1205.93,Finance,Mercer Consulting
+2024-05-03,Marketing,579.94,Engineering,Mailchimp
+2024-05-04,IT,1015.83,Engineering, Slack  
+2024-05-04,Marketing,1327.97,HR,Meta Ads
+2024-05-05,Travel,846.67,Sales,Uber
+2024-05-05,Equipment,784.42,HR,CDW
+2024-05-05,Marketing,968.01,Finance,Google Ads
+2024-05-06,Office Supplies,79.50,Sales,Amazon Business
+2024-05-06,Office Supplies,100.83,Engineering,Amazon Business
+2024-05-07,Travel,340.33,Engineering,United Airlines
+2024-05-08,IT,347.50,Operations,Slack
+2024-05-08,Office Supplies,49.12,Finance,Staples
+2024-05-09,IT,376.19,Engineering,AWS
+2024-05-09,Travel,709.01,Sales,United Airlines
+2024-05-09,Equipment,649.68,Sales, Dell  
+2024-05-09,Office Supplies,229.54,Operations,Office Depot
+2024-05-10,IT,655.58,Finance,Atlassian
+2024-05-10,Travel,635.56,Engineering,United Airlines
+2024-05-11,Information Technology,432.27,Engineering,Microsoft 365
+2024-05-11,Marketing,415.55,Finance,Mailchimp
+2024-05-11,Marketing,1143.38,Engineering,Meta Ads
+2024-05-11,Equipment,574.65,Finance,Dell
+2024-05-11,IT,137.16,HR,Notion
+2024-05-11,Facilities,708.45,Operations,Comcast Business
+2024-05-12,Equipment,505.38,Sales,Best Buy
+2024-05-12,IT,404.69,Sales,Microsoft 365
+2024-05-12,IT,677.68,Sales,Microsoft 365
+2024-05-12,Marketing,1084.35,Operations,LinkedIn Ads
+2024-05-13,IT,891.45,HR,Microsoft 365
+2024-05-13,IT,1055.35,Sales,Notion
+2024-05-13,IT,353.58,Sales,Microsoft 365
+2024-05-14,Equipment,891.30,HR,Best Buy
+2024-05-15,Travel,612.86,Engineering,Delta
+2024-05-15,it,91.09,Sales,Salesforce
+2024-05-16,Facilities,1571.32,Operations,Pacific Gas & Electric
+2024-05-16,IT,564.23,Engineering,Notion
+2024-05-16,Office Supplies,80.63,Engineering,Office Depot
+2024-05-16,Office Supplies,110.48,HR,Staples
+2024-05-17,IT,246.93,Sales,AWS
+2024-05-17,IT,660.05,Finance,Salesforce
+2024-05-17,Professional Services,4462.20,Sales,Deloitte
+2024-05-17,equipment,1153.39,Finance,Dell
+2024-05-17,Marketing,597.51,Sales,Mailchimp
+2024-05-18,Marketing,725.47,Sales,Mailchimp
+2024-05-19,  IT ,487.78,Engineering,Datadog
+2024-05-19,Marketing,,HR, Canva  
+2024-05-19,Marketing,977.57,Operations,HubSpot
+2024-05-19,Marketing,439.74,Sales,HubSpot
+2024-05-20,Travel,610.69,Sales,United Airlines
+2024-05-20,Marketing,1140.34,Operations,Google Ads
+2024-05-20,Travel,121.70,Engineering,Lyft
+2024-05-20,Travel,457.44,Operations,Marriott
+2024-05-22,Marketing,951.49,Finance,Mailchimp
+2024-05-22,FACILITIES,462.76,Sales,Comcast Business
+2024-05-22,IT,180.94,Sales,Datadog
+2024-05-22,Office Supplies,143.60,HR,Staples
+2024-05-22,Office Supplies,50.58,Sales,Office Depot
+2024-05-22,Office Supplies,48.00,Engineering,Amazon Business
+2024-05-23,Marketing,670.98,Sales,Meta Ads
+2024-05-24,Office Supplies,69.77,HR,Office Depot
+2024-05-24,equipment,965.89,Operations,Apple
+2024-05-24,IT,227.64,Sales,AWS
+2024-05-24,Professional Services,1063.25,Engineering,Anderson Tax LLP
+2024-05-25,IT,472.81,HR,GitHub
+2024-05-25,Facilities,1304.67,Engineering,Pacific Gas & Electric
+2024-05-25,Marketing,895.67,Finance, Mailchimp  
+2024-05-26,  Professional Services ,2404.07,Engineering,Reed & Co Legal
+2024-05-27,Travel,293.86,Engineering,Delta
+2024-05-27,  Marketing ,673.40,Engineering,Google Ads
+2024-05-27,IT,746.60,Sales,Zoom
+2024-05-28,Facilities,1843.39,Sales,Spectrum
+2024-05-28,Travel,411.58,Engineering,Uber
+2024-05-28,Marketing,503.73,Sales,Canva
+2024-05-28,Marketing,682.28,Operations,Meta Ads
+2024-05-29,Information Technology,596.01,Engineering,GitHub
+2024-05-29,Office Supplies,167.91,Operations,Staples
+2024-05-29,it,512.29,Operations,Atlassian
+2024-05-29,Facilities,595.62,Engineering,Comcast Business
+2024-05-30,IT,872.48,Finance,Datadog
+2024-05-30,marketing,693.86,Operations, LinkedIn Ads  
+2024-05-30,Facilities,981.29,Finance,Spectrum
+2024-06-01,Facilities,1254.68,Engineering,  Spectrum 
+2024-06-01,  IT ,275.20,Finance,Datadog
+2024-06-02,IT,505.02,Sales,Datadog
+2024-06-02,IT,924.35,Sales,Slack
+2024-06-02,  Travel ,630.35,Operations,Lyft
+2024-06-03,TRAVEL,236.33,Operations,Uber
+2024-06-03,Travel,428.36,HR,Uber
+2024-06-03,IT,550.48,Engineering,Slack
+2024-06-04,IT,1084.01,Engineering,  Salesforce 
+2024-06-04,Travel,226.93,HR,Booking.com
+2024-06-04,Office Supplies,99.60,Sales,Amazon Business
+2024-06-05,Office Supplies,20.13,Finance,Staples
+2024-06-05,IT,538.33,Sales,Zoom
+2024-06-05,  Marketing ,404.60,Operations,Mailchimp
+2024-06-06,Equipment,247.58,Operations,Best Buy
+2024-06-06,Travel,185.09,Engineering,Delta
+2024-06-06,Travel,693.34,Sales,Marriott
+2024-06-07,IT,542.78,Engineering,Slack
+2024-06-07,EQUIPMENT,1307.98,Engineering,Apple
+2024-06-08,Facilities,780.40,Finance,Pacific Gas & Electric
+2024-06-08,IT,949.39,Sales,GitHub
+2024-06-08,IT,160.55,Sales,Salesforce
+2024-06-08,IT,206.89,Sales,Slack
+2024-06-09,equipment,178.12,Operations,Apple
+2024-06-09,IT,287.81,Sales,Microsoft 365
+2024-06-09,Marketing,571.96,Sales,Mailchimp
+2024-06-10,IT,916.76,Engineering,GitHub
+2024-06-10,Facilities,1779.76,Operations,Pacific Gas & Electric
+2024-06-11,Facilities,504.81,Operations,Spectrum
+2024-06-11,OFFICE SUPPLIES,208.11,Sales,Office Depot
+2024-06-11,Office Supplies,100.94,Operations,Office Depot
+2024-06-12,Office Supplies,143.41,Engineering,Staples
+2024-06-12,Marketing,867.00,Engineering,Mailchimp
+2024-06-12,Professional Services,2104.63,Operations,Anderson Tax LLP
+2024-06-12,Equipment,1095.73,Sales,  Apple 
+2024-06-12,Office Supplies,153.27,Engineering,Office Depot
+2024-06-13,Travel,517.05,Operations,Delta
+2024-06-13,IT,600.25,Sales,Slack
+2024-06-13,Travel,616.63,Finance,United Airlines
+2024-06-13,Travel,603.81,Engineering,Lyft
+2024-06-13,Travel,164.40,Sales,United Airlines
+2024-06-14, Facilities  ,975.38,Engineering,Comcast Business
+2024-06-14,Office Supplies,80.62,Engineering,Amazon Business
+2024-06-14,Travel,253.55,Engineering,Uber
+2024-06-15,Facilities,296.61,Engineering,Pacific Gas & Electric
+2024-06-15,Office Supplies,51.35,HR,Office Depot
+2024-06-16,IT,579.79,Sales,Salesforce
+2024-06-16,Office Supplies,130.23,Operations,Office Depot
+2024-06-16,Travel,159.28,HR,Marriott
+2024-06-16,IT,961.41,Engineering,Datadog
+2024-06-16,Marketing,409.84,Finance,Canva
+2024-06-18,Travel,230.34,Engineering,Booking.com
+2024-06-18,Marketing,224.36,HR,HubSpot
+2024-06-19,IT,838.22,Sales,Salesforce
+2024-06-19,Professional Services,5828.59,Operations,Mercer Consulting
+2024-06-19,Marketing,266.26,Sales,Mailchimp
+2024-06-19,IT,244.11,Operations,Microsoft 365
+2024-06-20,IT,446.31,Engineering,Microsoft 365
+2024-06-20,Marketing,270.26,Sales,Google Ads
+2024-06-21,Office Supplies,154.26,Sales,Office Depot
+2024-06-21,IT,481.37,Finance,Microsoft 365
+2024-06-21,Travel,251.64,Engineering,Booking.com
+2024-06-22,IT,122.83,Engineering,Zoom
+2024-06-22,Marketing,904.56,Sales,HubSpot
+2024-06-23,IT,232.65,Operations,Slack
+2024-06-23,Travel,865.39,Sales,Uber
+2024-06-24,Facilities,620.85,Finance,Comcast Business
+2024-06-24,Equipment,476.06,Engineering,Best Buy
+2024-06-24,IT,674.45,Engineering,Atlassian
+2024-06-25,Travel,636.98,Operations,Lyft
+2024-06-25,Facilities,1153.94,Operations,Comcast Business
+2024-06-26,it,556.65,Engineering,Microsoft 365
+2024-06-26,Marketing,416.55,Engineering,LinkedIn Ads
+2024-06-26,IT,256.65,Operations,Zoom
+2024-06-26,IT,368.32,Operations,Notion
+2024-06-26,Marketing,1005.71,Engineering,HubSpot
+2024-06-26,MARKETING,1085.73,Sales,LinkedIn Ads
+2024-06-27,IT,810.58,Sales,Zoom
+2024-06-27,Marketing,121.17,Sales,HubSpot
+2024-06-28,Facilities,607.44,Operations,Spectrum
+2024-06-28,Marketing,279.04,Engineering,Meta Ads
+2024-06-28,Equipment,1145.58,Engineering,Best Buy
+2024-06-28,Facilities,976.51,Sales,Spectrum
+2024-06-28,IT,283.16,Operations,Atlassian
+2024-06-29,Office Supplies,228.10,Sales,Staples
+2024-06-29,Office Supplies,148.27,Engineering,Amazon Business
+2024-06-29, FACILITIES  ,2049.63,Sales,Spectrum
+2024-06-29,Marketing,514.24,Sales,Mailchimp
+2024-06-30,Marketing,331.82,Operations,Mailchimp
+2024-06-30,IT,779.28,Operations,Datadog
+2024-06-30,IT,139.15,Operations,Atlassian
+2024-07-01,Office Supplies,154.36,Sales,  Amazon Business 
+2024-07-01,  Office Supplies ,33.88,Sales,Amazon Business
+2024-07-01,Travel,493.19,Engineering,Lyft
+2024-07-01,Facilities,2131.92,Sales,Pacific Gas & Electric
+2024-07-01,Facilities,1336.82,Engineering,Pacific Gas & Electric
+2024-07-01,TRAVEL,506.45,Finance,Booking.com
+2024-07-03,Travel,866.37,Sales,Marriott
+2024-07-03,IT,294.48,HR,Zoom
+2024-07-04,Equipment,484.08,Sales,CDW
+2024-07-05,Travel,595.25,Engineering,Uber
+2024-07-05,Travel,317.04,Finance,Booking.com
+2024-07-05,Office Supplies,18.11,Finance,Office Depot
+2024-07-06,IT,907.05,Finance,Microsoft 365
+2024-07-06,Marketing,1029.21,Engineering,Meta Ads
+2024-07-06,Marketing,481.54,Finance,Canva
+2024-07-06,Office Supplies,86.94,Finance,Office Depot
+2024-07-06,Travel,278.11,Sales,Delta
+2024-07-06,Travel,180.75,Engineering,Booking.com
+2024-07-07,Marketing,229.35,Sales,Canva
+2024-07-07,Marketing,135.17,Finance,Meta Ads
+2024-07-08,IT,138.61,Engineering,Datadog
+2024-07-08,IT,1075.65,Operations,Zoom
+2024-07-08,IT,420.09,Operations,Slack
+2024-07-08,IT,358.18,Sales,GitHub
+2024-07-09,Equipment,1017.98,Sales,Apple
+2024-07-09,IT,1014.86,Operations,Zoom
+2024-07-10,Travel,605.02,Sales,Lyft
+2024-07-10,Equipment,367.32,Finance,Dell
+2024-07-10,  IT ,825.44,Engineering,Microsoft 365
+2024-07-10,Equipment,222.81,Engineering,Apple
+2024-07-10,IT,203.81,Operations,Microsoft 365
+2024-07-11,IT,498.44,HR,GitHub
+2024-07-11,Marketing,591.69,Operations,Google Ads
+2024-07-12,Travel,254.92,HR,Lyft
+2024-07-12,Equipment,1033.48,Engineering,CDW
+2024-07-12,IT,154.73,HR,GitHub
+2024-07-12,Marketing,302.20,Sales, Canva  
+2024-07-13,Travel,265.26,Sales,Uber
+2024-07-13,  Travel ,376.86,Sales,Marriott
+2024-07-13,Marketing,938.74,Engineering,Mailchimp
+2024-07-14,Travel,740.63,Operations,Lyft
+2024-07-14,Facilities,417.73,Operations,Pacific Gas & Electric
+2024-07-15,Marketing,209.64,Sales,LinkedIn Ads
+2024-07-16,Travel,572.03,Sales,Delta
+2024-07-16,Office Supplies,178.42,Finance,Amazon Business
+2024-07-16,IT,150.20,Finance,Microsoft 365
+2024-07-17,Information Technology,533.97,Finance,Salesforce
+2024-07-17,Equipment,513.30,Sales,Dell
+2024-07-17,Marketing,734.49,Sales,Google Ads
+2024-07-18,Facilities,1880.15,Operations,Comcast Business
+2024-07-18,IT,217.38,Engineering,AWS
+2024-07-18,Marketing,339.78,Operations,HubSpot
+2024-07-18,Facilities,634.13,Sales,WeWork
+2024-07-18,IT,,Engineering,Atlassian
+2024-07-20,IT,422.55,Finance,Slack
+2024-07-20,IT,241.05,Sales,Zoom
+2024-07-20,Office Supplies,83.95,Sales,Office Depot
+2024-07-20,IT,818.74,Engineering,Notion
+2024-07-20,IT,678.26,Engineering,Datadog
+2024-07-21,Office Supplies,61.91,Finance,Amazon Business
+2024-07-21,IT,607.51,Sales,Atlassian
+2024-07-21,Marketing,808.81,Operations,Meta Ads
+2024-07-21,IT,125.65,Engineering,Microsoft 365
+2024-07-21,TRAVEL,85.78,Sales,Delta
+2024-07-22,IT,344.23,Finance,Slack
+2024-07-22,Travel,775.18,Sales,Marriott
+2024-07-23,Marketing,403.06,HR,Meta Ads
+2024-07-23,IT,499.87,Sales,Notion
+2024-07-23,Travel,298.13,Engineering,United Airlines
+2024-07-23,Equipment,674.80,Sales,CDW
+2024-07-23,Travel,600.61,HR,Delta
+2024-07-23,IT,636.36,Sales,Datadog
+2024-07-24,IT,93.78,Operations,Microsoft 365
+2024-07-25,Marketing,325.88,HR,Meta Ads
+2024-07-25,Equipment,153.92,Engineering,CDW
+2024-07-26,Professional Services,1619.92,Engineering,Anderson Tax LLP
+2024-07-26,IT,759.46,Engineering,Datadog
+2024-07-27,IT,158.47,Sales,Salesforce
+2024-07-27,Office Supplies,119.86,Operations,Amazon Business
+2024-07-28,Facilities,1549.82,Engineering,Spectrum
+2024-07-28,Travel,593.04,Engineering,Marriott
+2024-07-28,IT,224.25,Sales,GitHub
+2024-07-28,IT,1151.60,Operations,Slack
+2024-07-28, Equipment  ,615.37,Sales,Best Buy
+2024-07-28,MKTG,158.72,Sales,Meta Ads
+2024-07-29,Marketing,1223.61,Operations,Canva
+2024-07-29,Professional Services,3890.09,Sales,Mercer Consulting
+2024-07-29,Office Supplies,89.04,Sales,Staples
+2024-07-30,Equipment,558.47,Sales,Apple
+2024-07-30,Marketing,599.41,Operations,Canva
+2024-07-30,IT,830.08,Engineering,Datadog
+2024-07-31,Marketing,328.69,Engineering,HubSpot
+2024-07-31,Travel,429.26,HR,Uber
+2024-07-31,Marketing,385.93,Operations,LinkedIn Ads
+2024-07-31,TRAVEL,278.95,Operations,Lyft
+2024-08-01,Travel,562.33,Finance,Marriott
+2024-08-01,Marketing,400.79,Engineering,Canva
+2024-08-01,Office Supplies,178.55,HR,Office Depot
+2024-08-02,Travel,775.69,Sales,United Airlines
+2024-08-02,Marketing,222.11,Operations,HubSpot
+2024-08-02,Office Supplies,90.05,Sales,Office Depot
+2024-08-02,Marketing,721.87,Sales,Mailchimp
+2024-08-02,Office Supplies,101.88,Engineering,Staples
+2024-08-03,Travel,220.13,Engineering,Booking.com
+2024-08-04,Professional Services,1018.71,Operations,Anderson Tax LLP
+2024-08-05,MARKETING,680.56,Sales,LinkedIn Ads
+2024-08-05,IT,1087.98,HR,Atlassian
+2024-08-05,IT,89.94,Finance,Atlassian
+2024-08-05,Marketing,676.48,Sales,HubSpot
+2024-08-08,Office Supplies,188.92,Operations,Amazon Business
+2024-08-08,Travel,129.66,Engineering,United Airlines
+2024-08-10,Equipment,159.24,Engineering,Best Buy
+2024-08-10,Equipment,408.51,Engineering,CDW
+2024-08-10,IT,414.17,Finance,Slack
+2024-08-10,travel,711.78,Operations,United Airlines
+2024-08-12,Marketing,274.98,Engineering,LinkedIn Ads
+2024-08-12,I.T.,941.79,HR,Atlassian
+2024-08-13,I.T.,174.83,Sales, AWS  
+2024-08-13,Marketing,304.97,Sales,Meta Ads
+2024-08-14,Office Supplies,111.80,Finance,Office Depot
+2024-08-14,Office Supplies,101.49,HR,  Office Depot 
+2024-08-14,Marketing,1218.49,Sales,LinkedIn Ads
+2024-08-14,Professional Services,3560.14,Engineering,Anderson Tax LLP
+2024-08-15,equipment,616.02,Finance,Best Buy
+2024-08-15,Marketing,335.68,Operations,Google Ads
+2024-08-16, IT  ,119.51,Sales,Zoom
+2024-08-16, Travel  ,152.86,Finance,Delta
+2024-08-16,Travel,684.59,Operations,United Airlines
+2024-08-16, Prof Svcs  ,1957.30,Sales,Mercer Consulting
+2024-08-16,IT,641.17,Finance,GitHub
+2024-08-17,IT,647.43,HR,AWS
+2024-08-17,Marketing,217.10,Operations,Meta Ads
+2024-08-17,IT,211.66,Operations, Salesforce  
+2024-08-17,IT,472.92,Engineering,Zoom
+2024-08-17,Professional Services,2693.11,Sales,Reed & Co Legal
+2024-08-17,Marketing,652.03,Engineering,Google Ads
+2024-08-19,IT,283.47,Sales,GitHub
+2024-08-20,  IT ,315.18,Operations,Atlassian
+2024-08-20,Travel,318.04,Engineering,Delta
+2024-08-21,Office Supplies,57.41,Engineering,Amazon Business
+2024-08-22,Facilities,1292.59,Sales,Spectrum
+2024-08-22,Facilities,1036.24,Engineering,WeWork
+2024-08-23,Travel,247.41,HR,United Airlines
+2024-08-23,Information Technology,645.04,Operations,Zoom
+2024-08-24,Marketing,567.66,HR,Mailchimp
+2024-08-24,IT,289.06,Operations,Notion
+2024-08-24,Equipment,590.42,Engineering,Best Buy
+2024-08-24,IT,469.40,Sales,Datadog
+2024-08-24,Office Supplies,83.36,Sales,Staples
+2024-08-25,Marketing,1043.97,Engineering,Meta Ads
+2024-08-25,Professional Services,6724.24,Finance,Mercer Consulting
+2024-08-26,Marketing,589.09,Sales,Mailchimp
+2024-08-26,IT,600.54,Engineering,Salesforce
+2024-08-27,Travel,348.99,Engineering,Marriott
+2024-08-28,Equipment,391.04,Engineering,CDW
+2024-08-28,IT,562.02,Sales,AWS
+2024-08-28,Professional Services,4493.69,Engineering,Deloitte
+2024-08-28,Equipment,623.87,Finance,Apple
+2024-08-28,IT,1047.75,Engineering,Datadog
+2024-08-28,TRAVEL,208.65,Engineering,Delta
+2024-08-29,Marketing,748.70,Sales,Canva
+2024-08-29,IT,539.70,Operations,Datadog
+2024-08-29,travel,550.22,Engineering,Booking.com
+2024-08-29,IT,257.08,HR,Zoom
+2024-08-29,Travel,430.28,Sales,Uber
+2024-08-29,Office Supplies,79.15,Engineering,Amazon Business
+2024-08-30,Marketing,141.69,Engineering,Meta Ads
+2024-08-31,Marketing,1019.47,Operations,Mailchimp
+2024-08-31,Office Supplies,82.24,Sales,Office Depot
+2024-08-31,Facilities,316.10,Operations,Comcast Business
+2024-09-01,IT,682.76,Sales,Zoom
+2024-09-01,travel,448.33,HR,Delta
+2024-09-01,IT,215.36,Sales,Zoom
+2024-09-01,Travel,295.10,Sales,Lyft
+2024-09-01,Travel,398.17,Engineering,United Airlines
+2024-09-02,Travel,567.20,Engineering,United Airlines
+2024-09-02,Marketing,736.00,Engineering,Meta Ads
+2024-09-03,IT,606.95,Engineering,AWS
+2024-09-03,Office Supplies,83.04,Sales,Amazon Business
+2024-09-03,IT,275.49,Engineering,Salesforce
+2024-09-03,Travel,477.94,Sales,Lyft
+2024-09-03,Facilities,861.36,Sales,Spectrum
+2024-09-04,Professional Services,1426.22,Operations,Deloitte
+2024-09-04,Marketing,468.21,Sales,LinkedIn Ads
+2024-09-04,IT,323.63,Operations,Notion
+2024-09-04,Office Supplies,260.95,Operations,Staples
+2024-09-05,Marketing,820.50,Operations,Canva
+2024-09-05,Marketing,630.87,Engineering,Mailchimp
+2024-09-05,Facilities,1645.20,Finance,Pacific Gas & Electric
+2024-09-06,Office Supplies,116.74,Operations,Office Depot
+2024-09-06,IT,914.82,Engineering,AWS
+2024-09-06,IT,311.62,Operations,AWS
+2024-09-07,Facilities,839.97,Sales,Spectrum
+2024-09-07,IT,104.77,Sales,Atlassian
+2024-09-08,EQUIPMENT,1256.60,Engineering,Apple
+2024-09-09,Travel,249.62,Engineering,Uber
+2024-09-09,Travel,162.30,HR,Marriott
+2024-09-09,Office Supplies,159.18,Engineering,Amazon Business
+2024-09-09,Facilities,2100.27,Sales,Pacific Gas & Electric
+2024-09-10,EQUIPMENT,381.70,Sales,Dell
+2024-09-10,I.T.,686.84,Engineering,Zoom
+2024-09-10,Office Supplies,121.34,Finance,Office Depot
+2024-09-10,Professional Services,5959.57,Engineering,Reed & Co Legal
+2024-09-10,IT,405.90,HR,Datadog
+2024-09-10,Travel,382.47,Finance,United Airlines
+2024-09-11,MARKETING,795.51,Sales,Canva
+2024-09-13, OFFICE SUPPLIES  ,45.45,Finance,Office Depot
+2024-09-13,Office Supplies,169.18,Engineering,Staples
+2024-09-13,Marketing,400.62,Engineering,Meta Ads
+2024-09-13,Office Supplies,50.66,Sales,Office Depot
+2024-09-14,Equipment,1165.37,Engineering,Best Buy
+2024-09-14,IT,239.29,Sales,Atlassian
+2024-09-15,Facilities,1413.02,Operations,WeWork
+2024-09-15,  MKTG ,510.30,Operations,Meta Ads
+2024-09-16,Marketing,570.97,Engineering,HubSpot
+2024-09-16,Travel,386.34,Sales,Uber
+2024-09-16,Travel,821.58,Finance,Booking.com
+2024-09-16,IT,194.58,Sales,Microsoft 365
+2024-09-17,office supplies,163.45,HR,Office Depot
+2024-09-17,IT,923.19,Sales,GitHub
+2024-09-17,Facilities,1152.25,Sales,Comcast Business
+2024-09-17,IT,170.88,Engineering,Atlassian
+2024-09-18,it,994.40,Operations,Atlassian
+2024-09-18,IT,221.38,Operations,Zoom
+2024-09-18,IT,614.23,HR,Atlassian
+2024-09-18,IT,526.98,Sales,Datadog
+2024-09-18,Professional Services,2539.97,Sales, Deloitte  
+2024-09-18,Travel,263.37,Engineering,Uber
+2024-09-19,IT,519.31,Sales,Atlassian
+2024-09-19,Marketing,196.91,Finance,Canva
+2024-09-19,Office Supplies,90.68,Sales,Amazon Business
+2024-09-20,Marketing,273.54,Sales,Meta Ads
+2024-09-20,Marketing,682.16,HR,Google Ads
+2024-09-20,Office supplies,226.38,Operations,Office Depot
+2024-09-21,I.T.,281.49,Sales,Notion
+2024-09-21,TRAVEL,746.76,Sales,United Airlines
+2024-09-21,IT,117.24,Engineering,Datadog
+2024-09-21,Equipment,568.02,Finance,Apple
+2024-09-21,IT,935.76,Sales,Microsoft 365
+2024-09-21,Marketing,1339.65,Operations,Google Ads
+2024-09-22,IT,1104.01,Engineering,GitHub
+2024-09-22,Facilities,863.66,Engineering,Pacific Gas & Electric
+2024-09-22,IT,156.36,Engineering,Microsoft 365
+2024-09-22,IT,658.49,Operations,Datadog
+2024-09-23,Marketing,226.60,Operations,HubSpot
+2024-09-23,IT,767.80,Sales,Microsoft 365
+2024-09-23,Office Supplies,244.94,Engineering,Amazon Business
+2024-09-23,Equipment,725.23,Operations,CDW
+2024-09-23,Travel,829.43,Engineering,Delta
+2024-09-24,Office Supplies,266.74,Sales,Staples
+2024-09-24,Facilities,725.13,Engineering,Comcast Business
+2024-09-25,Travel,209.68,Sales,United Airlines
+2024-09-25,Marketing,227.06,Finance,Mailchimp
+2024-09-25,Office supplies,52.90,Sales,Amazon Business
+2024-09-25,Marketing,197.55,Sales,Google Ads
+2024-09-26,Travel,338.59,Sales,United Airlines
+2024-09-27,Office Supplies,251.23,Finance,Amazon Business
+2024-09-27,Equipment,338.88,HR,CDW
+2024-09-27,Marketing,647.65,Engineering,Canva
+2024-09-27,Marketing,393.04,Operations,Mailchimp
+2024-09-28,Travel,407.95,Sales,United Airlines
+2024-09-28,marketing,226.68,Operations,Meta Ads
+2024-09-28,Facilities,663.88,Operations,Pacific Gas & Electric
+2024-09-29,TRAVEL,496.89,Finance,Lyft
+2024-09-30,IT,421.59,Sales,Microsoft 365
+2024-09-30,Equipment,294.61,Engineering,Dell
+2024-09-30,Travel,453.11,Engineering,United Airlines
+2024-09-30,Marketing,349.38,Engineering,Google Ads
+2024-09-30,Marketing,1213.22,Operations,Canva
+2024-10-01,IT,843.28,Sales,Datadog
+2024-10-01,Travel,363.12,Finance,Uber
+2024-10-01,MARKETING,590.27,Engineering,Mailchimp
+2024-10-01,IT,577.42,Engineering,Atlassian
+2024-10-01,Marketing,783.91,Engineering,HubSpot
+2024-10-02,IT,517.78,Sales,GitHub
+2024-10-02, IT  ,140.16,Engineering,Datadog
+2024-10-02,Travel,325.96,Finance,Booking.com
+2024-10-03, Facilities  ,616.44,Operations,WeWork
+2024-10-03,Marketing,792.11,Sales,HubSpot
+2024-10-05,Office Supplies,125.11,Finance,Staples
+2024-10-05,Equipment,821.80,Engineering,Best Buy
+2024-10-05,IT,401.99,Sales,Microsoft 365
+2024-10-06,Facilities,854.18,Sales,WeWork
+2024-10-06,Travel,311.72,Finance,United Airlines
+2024-10-06,Office Supplies,52.59,Finance,Amazon Business
+2024-10-06,Professional Services,2367.72,Sales,Reed & Co Legal
+2024-10-07,Travel,453.54,Engineering,Marriott
+2024-10-07,Facilities,1029.62,Engineering,Spectrum
+2024-10-07,it,1092.12,Finance,GitHub
+2024-10-08,Marketing,136.46,Engineering,HubSpot
+2024-10-08,Travel,136.68,Sales,Delta
+2024-10-09,Travel,216.83,Sales,Delta
+2024-10-09,Facilities,412.55,Engineering,WeWork
+2024-10-10,Marketing,272.52,Finance,LinkedIn Ads
+2024-10-10,Professional Services,2889.60,Sales,Reed & Co Legal
+2024-10-11,Facilities,930.71,Operations,Pacific Gas & Electric
+2024-10-11,Equipment,1225.03,Engineering,Apple
+2024-10-11,IT,1035.42,Sales,Zoom
+2024-10-12,Equipment,823.13,Operations,CDW
+2024-10-12,Travel,492.86,Sales,Uber
+2024-10-12,  Facilities ,900.69,Sales,WeWork
+2024-10-12,Travel,904.31,Sales,United Airlines
+2024-10-12,FACILITIES,1150.70,HR,Pacific Gas & Electric
+2024-10-13,Facilities,2077.24,Sales,WeWork
+2024-10-13,Equipment,801.56,Engineering,CDW
+2024-10-14,Travel,479.87,Operations,Booking.com
+2024-10-15,Travel,306.97,Engineering,Delta
+2024-10-15,IT,650.43,Sales,Atlassian
+2024-10-16,marketing,1093.86,Operations,LinkedIn Ads
+2024-10-16,IT,93.31,Operations,Datadog
+2024-10-16, Marketing  ,740.78,Engineering,Mailchimp
+2024-10-16,Travel,419.18,Operations,Booking.com
+2024-10-16,Facilities,830.87,Sales,Pacific Gas & Electric
+2024-10-17,IT,660.16,Sales,Slack
+2024-10-17,Equipment,381.72,Engineering,Apple
+2024-10-17, IT  ,794.49,Sales,Datadog
+2024-10-17,Travel,227.00,Sales,United Airlines
+2024-10-18,Marketing,186.06,Finance,HubSpot
+2024-10-19,TRAVEL,195.79,Sales,United Airlines
+2024-10-20,Travel,308.35,Engineering,Marriott
+2024-10-21,IT,258.79,Finance,Atlassian
+2024-10-21,IT,187.35,HR,Zoom
+2024-10-21,Professional Services,6982.37,HR,Mercer Consulting
+2024-10-22,Travel,273.31,Operations,Delta
+2024-10-22,Marketing,848.90,Engineering,Mailchimp
+2024-10-22,Marketing,478.18,Engineering,Canva
+2024-10-23,Marketing,537.46,Sales,HubSpot
+2024-10-23,IT,88.87,Engineering,Datadog
+2024-10-24,Marketing,858.29,Engineering,HubSpot
+2024-10-25,MARKETING,446.23,Finance,HubSpot
+2024-10-25,EQUIP,602.41,Operations,Dell
+2024-10-25,IT,138.11,Engineering,Atlassian
+2024-10-25,IT,601.71,Finance,  AWS 
+2024-10-25,Travel,690.35,Engineering,United Airlines
+2024-10-26,FACILITIES,516.67,Operations,Spectrum
+2024-10-26,Office Supplies,171.93,Engineering,Amazon Business
+2024-10-26,  Travel ,723.53,Operations,Marriott
+2024-10-26,Marketing,688.64,Operations,LinkedIn Ads
+2024-10-26,Facilities,377.17,HR,  Comcast Business 
+2024-10-26,Professional Services,4991.25,Sales,Mercer Consulting
+2024-10-26,Travel,129.76,Operations, Delta  
+2024-10-27,Office Supplies,151.62,Finance,Office Depot
+2024-10-27,Marketing,621.56,Operations,LinkedIn Ads
+2024-10-27,IT,339.59,Sales,Salesforce
+2024-10-27,IT,184.62,HR,GitHub
+2024-10-28,Marketing,760.63,Operations,Mailchimp
+2024-10-29,IT,272.31,HR,Slack
+2024-10-29, Travel  ,578.71,Operations,Uber
+2024-10-29,Marketing,734.18,Finance,Canva
+2024-10-29,I.T.,101.40,Engineering,Salesforce
+2024-10-29,Facilities,1398.80,Finance,Pacific Gas & Electric
+2024-10-30,IT,777.70,HR,Notion
+2024-10-31,IT,634.44,Finance,Zoom
+2024-10-31,it,360.12,Sales,Atlassian
+2024-11-02,Marketing,1176.91,Sales,Google Ads
+2024-11-03,IT,383.18,Engineering,Salesforce
+2024-11-04,Marketing,279.84,Engineering,Meta Ads
+2024-11-04,Travel,266.96,Engineering,Delta
+2024-11-04,Marketing,1214.59,Engineering,Meta Ads
+2024-11-04,I.T.,254.80,Operations,Slack
+2024-11-04,Office Supplies,22.42,HR, Office Depot  
+2024-11-05,IT,288.19,Engineering,Salesforce
+2024-11-05,Marketing,246.16,HR,Google Ads
+2024-11-06,Office Supplies,51.02,Sales,Staples
+2024-11-06,OFFICE SUPPLIES,173.49,Operations,Staples
+2024-11-06,Marketing,789.33,Sales,HubSpot
+2024-11-07,Equipment,241.07,Engineering,Best Buy
+2024-11-07,EQUIP,317.30,Engineering,Dell
+2024-11-07,IT,243.57,Sales,Notion
+2024-11-07,Facilities,619.01,Finance,Pacific Gas & Electric
+2024-11-08, IT  ,77.13,Engineering,Notion
+2024-11-08,IT,60.77,HR,Salesforce
+2024-11-08,Travel,216.41,Engineering,Uber
+2024-11-08,MARKETING,1360.59,Finance,Google Ads
+2024-11-09,travel,671.10,Engineering,Marriott
+2024-11-11,Travel,316.06,Sales,United Airlines
+2024-11-11,IT,309.03,Sales,Notion
+2024-11-11,Marketing,936.18,Sales,Google Ads
+2024-11-11,Facilities,433.00,Sales,Spectrum
+2024-11-12,Marketing,565.22,Engineering,Google Ads
+2024-11-12,Marketing,734.19,Engineering,LinkedIn Ads
+2024-11-12,Equipment,133.10,Engineering,Dell
+2024-11-13,Office Supplies,96.62,Engineering,Office Depot
+2024-11-14,MKTG,735.49,Sales,Meta Ads
+2024-11-14,it,448.99,Sales,Zoom
+2024-11-14,Equipment,122.29,Sales,CDW
+2024-11-14,Marketing,1314.20,Engineering,LinkedIn Ads
+2024-11-14,Marketing,931.96,HR,Canva
+2024-11-14,Equipment,380.01,Engineering,Best Buy
+2024-11-15,Office Supplies,144.07,Engineering,Office Depot
+2024-11-15,IT,655.23,Sales,Zoom
+2024-11-15,Travel,140.08,Sales,Uber
+2024-11-15,Marketing,218.24,HR,Meta Ads
+2024-11-16,Equipment,429.97,Engineering,Apple
+2024-11-17,IT,432.25,Engineering,Slack
+2024-11-17,Facilities,707.65,Engineering,Comcast Business
+2024-11-17,Travel,233.21,Engineering,Booking.com
+2024-11-18,Facilities,762.45,Finance,Pacific Gas & Electric
+2024-11-18,Office Supplies,126.41,HR,Amazon Business
+2024-11-19,Office Supplies,28.04,Sales,Amazon Business
+2024-11-19,Travel,432.07,Finance,Uber
+2024-11-19,Professional Services,933.97,Finance,Anderson Tax LLP
+2024-11-20,Marketing,579.20,Engineering,Mailchimp
+2024-11-20,Office Supplies,88.38,Engineering,Staples
+2024-11-20, facilities  ,638.27,Finance,Comcast Business
+2024-11-20,Marketing,276.59,Operations,  Google Ads 
+2024-11-20,Office Supplies,69.33,Sales,Amazon Business
+2024-11-21,Marketing,694.68,Engineering,HubSpot
+2024-11-21,Office Supplies,126.43,Finance,Staples
+2024-11-21,Marketing,631.00,Engineering,LinkedIn Ads
+2024-11-21,TRAVEL,385.08,Operations,Uber
+2024-11-21,IT,684.05,Sales,Notion
+2024-11-21,Professional Services,5667.31,Sales,Mercer Consulting
+2024-11-21,  Equipment ,370.38,Finance,Apple
+2024-11-22,Equipment,677.97,Engineering,Dell
+2024-11-23,Travel,217.95,Engineering,Booking.com
+2024-11-23,Equipment,239.94,Finance,  Dell 
+2024-11-23,Travel,215.07,Operations,Uber
+2024-11-23,Marketing,242.81,Engineering,Canva
+2024-11-24,Travel,443.86,Finance,Lyft
+2024-11-24,IT,239.85,Engineering,Datadog
+2024-11-24,Travel,555.37,Sales,Uber
+2024-11-24,Marketing,326.49,Sales,Google Ads
+2024-11-24,Travel,434.46,HR,Uber
+2024-11-24,IT,504.47,Engineering,Datadog
+2024-11-25,I.T.,158.47,Sales,GitHub
+2024-11-26,Travel,204.57,Sales,Marriott
+2024-11-26,Marketing,1362.19,HR,Canva
+2024-11-26,Travel,191.27,Operations,Uber
+2024-11-28,Marketing,560.05,Sales,Canva
+2024-11-28,Office Supplies,47.49,Sales,Amazon Business
+2024-11-29,marketing,732.08,Sales,Meta Ads
+2024-11-29,Equipment,999.95,Operations,Apple
+2024-12-01,Facilities,28000.00,Operations,WeWork
+2024-12-01,Travel,628.61,HR,Booking.com
+2024-12-01,Office Supplies,65.04,Sales,Staples
+2024-12-02,EQUIPMENT,582.76,Finance,CDW
+2024-12-03,Office Supplies,175.57,Operations,Amazon Business
+2024-12-03,Marketing,278.25,Sales,Meta Ads
+2024-12-03,IT,412.42,Engineering,Notion
+2024-12-03,Facilities,1407.31,Finance,Pacific Gas & Electric
+2024-12-04,Equipment,707.48,Engineering,Best Buy
+2024-12-04,IT,246.07,Operations,Atlassian
+2024-12-04,Office Supplies,62.91,Sales,Office Depot
+2024-12-05,Travel,497.24,HR,Marriott
+2024-12-05,Professional Services,4764.45,Engineering,Mercer Consulting
+2024-12-07,IT,420.74,Finance,Salesforce
+2024-12-07,Facilities,677.74,Sales,Spectrum
+2024-12-07,Marketing,747.50,Operations,Mailchimp
+2024-12-08,  Marketing ,858.64,Operations,Google Ads
+2024-12-09,Travel,187.57,Engineering,Marriott
+2024-12-09,Equipment,732.82,Engineering,CDW
+2024-12-09,Travel,326.70,Sales,Uber
+2024-12-09,IT,366.73,HR,Atlassian
+2024-12-10,Equipment,987.03,Engineering,Apple
+2024-12-10,EQUIPMENT,536.02,Engineering,CDW
+2024-12-10,Travel,257.47,Engineering,Delta
+2024-12-10,Travel,521.22,Sales,Delta
+2024-12-12,Travel,956.40,Engineering,United Airlines
+2024-12-12,Marketing,733.67,Engineering,Meta Ads
+2024-12-13,  IT ,112.24,Engineering,Zoom
+2024-12-13,IT,225.04,Engineering,Slack
+2024-12-13,Travel,216.20,Finance,Lyft
+2024-12-14,Office Supplies,182.81,HR,Office Depot
+2024-12-14,marketing,416.95,Engineering,HubSpot
+2024-12-15,Office Supplies,55.05,HR,Amazon Business
+2024-12-15,Facilities,874.27,Sales,Comcast Business
+2024-12-16,IT,817.57,Finance,Notion
+2024-12-16,IT,372.92,Operations,Salesforce
+2024-12-16,travel,347.48,Sales,Marriott
+2024-12-16,Travel,823.10,Sales,Booking.com
+2024-12-17,Travel,400.64,Sales,United Airlines
+2024-12-18,Travel,182.58,HR,United Airlines
+2024-12-19,IT,476.39,Operations,Datadog
+2024-12-19,Travel,438.08,Sales,United Airlines
+2024-12-19,Facilities,1444.71,Finance,Comcast Business
+2024-12-20,Marketing,338.82,HR,Meta Ads
+2024-12-20,Travel,368.06,Operations,Lyft
+2024-12-20,Marketing,328.48,Sales,HubSpot
+2024-12-20,Travel,379.06,Engineering,Booking.com
+2024-12-21,Travel,484.04,Engineering,Lyft
+2024-12-21,Travel,362.59,Engineering,United Airlines
+2024-12-21,EQUIPMENT,955.96,Operations,Dell
+2024-12-21,Office Supplies,92.30,Engineering,Staples
+2024-12-21,Marketing,557.37,HR,Google Ads
+2024-12-22,IT,483.23,Sales,Slack
+2024-12-22,Travel,228.74,HR,Booking.com
+2024-12-22,IT,597.20,Operations,Salesforce
+2024-12-23,Office Supplies,94.64,Sales,Staples
+2024-12-23,IT,224.50,Sales,Zoom
+2024-12-23,  Professional Services ,3759.86,Sales,Deloitte
+2024-12-23,Equipment,325.28,Engineering,CDW
+2024-12-24,IT,177.73,Engineering,AWS
+2024-12-24,Travel,636.92,Engineering,Delta
+2024-12-25,Equipment,479.48,Engineering,Best Buy
+2024-12-25,IT,572.50,Sales, AWS  
+2024-12-25,IT,1010.33,Engineering,Salesforce
+2024-12-26,IT,169.41,Sales,AWS
+2024-12-26,Travel,195.39,Engineering,Lyft
+2024-12-27,Facilities,685.97,Finance,Spectrum
+2024-12-27,Equipment,319.10,Engineering,Apple
+2024-12-27,Marketing,140.88,Sales,Canva
+2024-12-27,Office Supplies,41.97,Sales,Office Depot
+2024-12-27,Facilities,1043.27,Sales,Spectrum
+2024-12-29,Travel,975.77,Engineering,Lyft
+2024-12-29,Marketing,694.80,Engineering,Meta Ads
+2024-12-29,Travel,632.13,Sales,United Airlines
+2024-12-30,Facilities,1778.32,Finance,  Spectrum 
+2024-12-30,Information Technology,145.21,Operations,Slack
+2025-01-01,IT,141.00,Engineering,GitHub
+2025-01-01,Office Supplies,67.18,Sales,Staples
+2025-01-01,IT,136.08,Engineering,Zoom
+2025-01-01,IT,420.77,Sales,Datadog
+2025-01-01,IT,58.06,Engineering,Zoom
+2025-01-02,Facilities,1870.19,HR,Comcast Business
+2025-01-02,IT,474.04,Engineering,AWS
+2025-01-02,Travel,525.08,Operations,Delta
+2025-01-02,Equipment,382.89,HR,Apple
+2025-01-02,Office Supplies,45.48,Operations,Office Depot
+2025-01-03,I.T.,448.19,Sales,GitHub
+2025-01-03,IT,432.99,Engineering,GitHub
+2025-01-05,Travel,676.46,Engineering,Booking.com
+2025-01-05,Facilities,816.12,Sales, Spectrum  
+2025-01-05,IT,331.32,Engineering,Salesforce
+2025-01-05,Facilities,2042.26,Sales,WeWork
+2025-01-06,MARKETING,355.88,Operations,Meta Ads
+2025-01-06,Office Supplies,222.54,Operations,Amazon Business
+2025-01-06,IT,401.14,Operations,GitHub
+2025-01-06,Equipment,1053.23,Operations,Best Buy
+2025-01-06,Equipment,266.18,Finance, Apple  
+2025-01-07,IT,342.29,Operations,Slack
+2025-01-08,IT,317.72,Sales,  Zoom 
+2025-01-08,Travel,241.65,Engineering,Booking.com
+2025-01-10,Office Supplies,44.47,Engineering,Office Depot
+2025-01-10,Travel,107.44,Engineering, United Airlines  
+2025-01-10,Equipment,306.47,Finance,Dell
+2025-01-11,Travel,556.46,Engineering,Marriott
+2025-01-11,Travel,633.69,HR,Marriott
+2025-01-11,Equipment,247.23,Engineering,Dell
+2025-01-12,Equipment,1234.92,Engineering,Apple
+2025-01-12,Equipment,441.85,Sales,Best Buy
+2025-01-12,Professional Services,1520.16,Finance,Anderson Tax LLP
+2025-01-12,Equipment,282.26,HR,Best Buy
+2025-01-13,Office Supplies,40.09,Engineering,  Staples 
+2025-01-13,IT,163.38,Engineering,AWS
+2025-01-13,IT,989.77,Engineering,GitHub
+2025-01-13,IT,270.80,Engineering,Atlassian
+2025-01-13,Marketing,331.97,HR,LinkedIn Ads
+2025-01-14,IT,252.22,HR,Atlassian
+2025-01-14,IT,222.43,Finance,GitHub
+2025-01-14,Facilities,1715.24,Operations,WeWork
+2025-01-14,Professional Services,1832.93,Engineering,Reed & Co Legal
+2025-01-15,Office Supplies,112.64,HR,Staples
+2025-01-15,Equipment,815.86,Finance,Apple
+2025-01-15,Facilities,1331.58,Operations,Pacific Gas & Electric
+2025-01-16,Office Supplies,162.52,Sales,Amazon Business
+2025-01-16,Marketing,1208.17,Engineering,HubSpot
+2025-01-16,Marketing,654.69,HR,Mailchimp
+2025-01-17,  Equipment ,1112.12,Sales,Dell
+2025-01-17,Marketing,754.16,Engineering,HubSpot
+2025-01-17,IT,585.59,Finance,Microsoft 365
+2025-01-18,Facilities,854.91,Sales,Comcast Business
+2025-01-18,Facilities,1195.76,Sales,Comcast Business
+2025-01-18,Marketing,609.09,Sales,Google Ads
+2025-01-18,Travel,419.82,Sales,Lyft
+2025-01-19,Office Supplies,56.32,Finance,Amazon Business
+2025-01-19,Equipment,686.02,Engineering,Best Buy
+2025-01-19,Marketing,447.38,Operations,Google Ads
+2025-01-20,Office Supplies,116.23,Engineering,Staples
+2025-01-20,Equipment,614.75,Sales,CDW
+2025-01-20,Travel,291.16,Sales,Marriott
+2025-01-22,Information Technology,876.08,Operations,Zoom
+2025-01-22,TRAVEL,622.41,Operations,United Airlines
+2025-01-22,Marketing,310.43,Sales,HubSpot
+2025-01-23,Travel,339.05,HR,Delta
+2025-01-24,Equipment,256.07,HR,Apple
+2025-01-24,Travel,761.29,Sales,Delta
+2025-01-24,Office Supplies,166.65,Operations,Staples
+2025-01-25,Marketing,1272.58,Operations,LinkedIn Ads
+2025-01-26,Marketing,643.60,Engineering,HubSpot
+2025-01-26,Equipment,231.35,Engineering,Best Buy
+2025-01-26,Equipment,1294.73,Sales,Dell
+2025-01-29,Facilities,2233.86,Operations, Spectrum  
+2025-01-29,Equipment,415.63,Sales,Dell
+2025-01-29,IT,957.40,Finance,Salesforce
+2025-01-29,  EQUIPMENT ,401.81,Engineering,CDW
+2025-01-30,Travel,309.91,Operations,Uber
+2025-01-31,Equipment,262.96,Engineering,Dell
+2025-01-31,Facilities,949.28,Finance,Spectrum
+2025-02-01,Equipment,412.55,Operations,Apple
+2025-02-01,Marketing,163.26,Operations,Meta Ads
+2025-02-01,Travel,415.13,Sales,Lyft
+2025-02-02,Marketing,251.75,HR,Google Ads
+2025-02-03,Equipment,1020.31,Finance,Best Buy
+2025-02-03,Marketing,727.86,Sales,Mailchimp
+2025-02-03,Equipment,500.73,Sales,Dell
+2025-02-04,Office Supplies,97.29,Engineering,Amazon Business
+2025-02-04,Marketing,346.72,Finance,HubSpot
+2025-02-04,Marketing,173.34,Operations,Google Ads
+2025-02-04,Marketing,617.11,Engineering,Google Ads
+2025-02-05,Office Supplies,150.16,Sales,Staples
+2025-02-05,Office Supplies,92.02,Sales,Amazon Business
+2025-02-05,Marketing,420.35,Sales,Mailchimp
+2025-02-06,IT,140.16,Engineering,Microsoft 365
+2025-02-07,Office Supplies,210.16,Finance,Office Depot
+2025-02-07,IT,521.53,Sales,AWS
+2025-02-08,  Office Supplies ,215.55,Engineering,Staples
+2025-02-08,Marketing,903.27,Operations, Mailchimp  
+2025-02-08,Marketing,504.48,Engineering, Mailchimp  
+2025-02-08,Equipment,1474.96,Sales,Dell
+2025-02-09,Facilities,1172.65,Sales,Spectrum
+2025-02-09,Equipment,547.33,Operations,Dell
+2025-02-10,IT,214.80,Engineering,Atlassian
+2025-02-10,IT,940.55,Sales,Datadog
+2025-02-10,Travel,829.26,Sales,Marriott
+2025-02-10,Equipment,1058.12,Engineering,Apple
+2025-02-11,Marketing,312.18,Sales,LinkedIn Ads
+2025-02-11,Equipment,341.58,Engineering,CDW
+2025-02-11,Facilities,897.31,Engineering,Spectrum
+2025-02-11,Facilities,676.54,Sales,Pacific Gas & Electric
+2025-02-12,IT,581.45,Operations,Notion
+2025-02-13,travel,379.33,Sales,Uber
+2025-02-13,Marketing,1082.58,Operations,Google Ads
+2025-02-13,MKTG,667.78,Engineering,Meta Ads
+2025-02-13,marketing,637.32,Engineering,Meta Ads
+2025-02-14,Office Supplies,106.94,Operations,Amazon Business
+2025-02-14,Marketing,137.89,Sales,Google Ads
+2025-02-14,Equipment,309.05,Sales,Dell
+2025-02-15,IT,1130.41,Sales,Slack
+2025-02-15,Office Supplies,64.32,Engineering,Office Depot
+2025-02-16,Travel,146.54,Sales,Booking.com
+2025-02-16,IT,548.85,Operations,AWS
+2025-02-16,IT,764.20,Sales,Microsoft 365
+2025-02-18,Facilities,917.32,Operations,Pacific Gas & Electric
+2025-02-18,Equipment,526.87,Engineering,Apple
+2025-02-19,Facilities,635.75,HR,Pacific Gas & Electric
+2025-02-19,Equipment,1406.70,Engineering,Best Buy
+2025-02-19,IT,605.03,Engineering,GitHub
+2025-02-20,Office Supplies,94.54,Sales,Office Depot
+2025-02-21,IT,552.35,Engineering,Notion
+2025-02-21,MKTG,200.68,Sales,Meta Ads
+2025-02-22,Professional Services,996.95,Engineering,Deloitte
+2025-02-22,OFFICE SUPPLIES,175.92,Operations,Staples
+2025-02-22,IT,373.99,Engineering,Atlassian
+2025-02-22,IT,377.69,Sales,Atlassian
+2025-02-22,IT,102.06,Engineering, Microsoft 365  
+2025-02-23,Marketing,1023.03,Sales,Meta Ads
+2025-02-23,Professional Services,,Operations,Mercer Consulting
+2025-02-24,Facilities,839.16,Finance,Comcast Business
+2025-02-24,Equipment,636.56,Finance,Best Buy
+2025-02-24,Facilities,2430.56,Operations,Spectrum
+2025-02-25,IT,257.39,Sales,AWS
+2025-02-25,Information Technology,189.15,Operations,Slack
+2025-02-25,Office Supplies,114.19,Operations,Amazon Business
+2025-02-25,Office Supplies,96.52,Sales,  Amazon Business 
+2025-02-25,Marketing,364.90,Operations,LinkedIn Ads
+2025-02-26,IT,716.41,Operations,Atlassian
+2025-02-27,IT,712.41,Sales,GitHub
+2025-02-27,IT,223.00,Engineering,Salesforce
+2025-02-27,IT,721.47,Sales,Slack
+2025-02-28,Facilities,1098.32,Finance,Pacific Gas & Electric
+2025-02-28,Equipment,554.14,Sales,Best Buy
+2025-02-28,Office Supplies,225.36,Operations,  Amazon Business 
+2025-03-01,Equipment,1128.82,Operations, Apple  
+2025-03-01,travel,298.85,Sales,Lyft
+2025-03-01,Facilities,550.58,Engineering,WeWork
+2025-03-01,Office Supplies,165.81,Sales,Amazon Business
+2025-03-02,Marketing,1016.17,Sales,Mailchimp
+2025-03-02,Marketing,516.43,Operations,Google Ads
+2025-03-02,IT,352.45,Sales,Notion
+2025-03-02,Office Supplies,144.48,Engineering,Staples
+2025-03-03,IT,485.14,Sales,GitHub
+2025-03-03,Equipment,432.97,Finance,Dell
+2025-03-03,Office Supplies,252.66,Sales,Office Depot
+2025-03-04,Facilities,1117.75,Finance,Spectrum
+2025-03-04,IT,863.36,Sales,Slack
+2025-03-05,Office Supplies,51.67,Operations,Office Depot
+2025-03-06,Travel,912.68,Finance,Lyft
+2025-03-06,IT,170.04,Operations,Notion
+2025-03-06, Marketing  ,559.14,Sales,Google Ads
+2025-03-06,Facilities,1940.08,Engineering,Spectrum
+2025-03-07,IT,189.10,Operations,AWS
+2025-03-07,Marketing,288.58,Finance,Google Ads
+2025-03-07,MARKETING,295.02,Operations,Meta Ads
+2025-03-07,Office Supplies,171.52,Sales,Office Depot
+2025-03-07,IT,738.23,Finance,Atlassian
+2025-03-07,Facilities,1667.16,HR,Pacific Gas & Electric
+2025-03-08,Marketing,315.12,Sales,LinkedIn Ads
+2025-03-08,IT,1015.75,Engineering,Slack
+2025-03-09,Office Supplies,85.17,Sales,Amazon Business
+2025-03-09,Marketing,464.95,Operations,Google Ads
+2025-03-09,Facilities,1000.56,Sales,Spectrum
+2025-03-09,Facilities,1198.62,Engineering,Comcast Business
+2025-03-09,Office Supplies,48.16,Sales,Amazon Business
+2025-03-09,Facilities,1308.14,Engineering,WeWork
+2025-03-10,IT,926.21,Sales,Microsoft 365
+2025-03-10,Travel,144.21,HR,Marriott
+2025-03-10,Marketing,1097.86,HR,Canva
+2025-03-11, Equipment  ,959.41,Sales,Apple
+2025-03-11,Marketing,451.52,HR,Meta Ads
+2025-03-12,IT,372.42,Finance,Salesforce
+2025-03-12,Office Supplies,145.91,Engineering,Staples
+2025-03-13, MARKETING  ,879.34,Operations,Google Ads
+2025-03-13,Marketing,386.95,Engineering, HubSpot  
+2025-03-13,IT,143.30,Operations,Slack
+2025-03-13,IT,501.69,Finance,  Slack 
+2025-03-13,IT,508.81,Engineering,Salesforce
+2025-03-14,Office Supplies,61.77,HR,Staples
+2025-03-15,Marketing,356.89,Operations,LinkedIn Ads
+2025-03-15,Travel,135.80,Sales,Uber
+2025-03-15,Marketing,572.17,Operations,Google Ads
+2025-03-15,Marketing,677.80,Engineering,Meta Ads
+2025-03-15,Marketing,620.84,Sales,Mailchimp
+2025-03-15,Office Supplies,100.03,Engineering,Office Depot
+2025-03-15,IT,993.76,Sales,Datadog
+2025-03-16,Facilities,1905.18,Engineering,WeWork
+2025-03-18,Facilities,1056.47,HR,WeWork
+2025-03-18,Marketing,499.35,Sales,Canva
+2025-03-18,Travel,361.75,Finance,Lyft
+2025-03-19,Prof Svcs,2850.68,Engineering,Mercer Consulting
+2025-03-20,Travel,395.87,Finance,Uber
+2025-03-20,Travel,930.15,Sales,Delta
+2025-03-20,Office Supplies,192.22,Sales,Office Depot
+2025-03-20, IT  ,478.35,Engineering,Salesforce
+2025-03-22,Office Supplies,54.63,Sales, Amazon Business  
+2025-03-22,IT,192.84,Sales,Notion
+2025-03-22,TRAVEL,306.93,Sales,Lyft
+2025-03-23,IT,280.36,Sales,Salesforce
+2025-03-23,IT,216.33,Engineering, Datadog  
+2025-03-23,IT,516.32,Sales,Zoom
+2025-03-24,Travel,426.58,Engineering,Uber
+2025-03-24,Facilities,1667.29,Engineering,Spectrum
+2025-03-25,Facilities,1175.59,Finance,Comcast Business
+2025-03-27,Equipment,1049.15,HR,CDW
+2025-03-27, Travel  ,237.21,HR,Uber
+2025-03-28,IT,195.76,Sales, Salesforce  
+2025-03-28,Marketing,201.24,Sales,Meta Ads
+2025-03-28,FACILITIES,1041.58,Engineering,Spectrum
+2025-03-29,Office Supplies,83.53,Sales,Amazon Business
+2025-03-30,Facilities,940.32,Sales,Pacific Gas & Electric
+2025-03-30,Marketing,326.41,Operations,HubSpot
+2025-03-30,IT,471.42,Operations,Slack
+2025-03-31,Travel,235.13,Engineering,Lyft
+2025-04-01,Office Supplies,61.85,Operations,Staples
+2025-04-01,IT,895.89,Operations,Notion
+2025-04-01,Marketing,864.24,Sales,Mailchimp
+2025-04-01,Travel,284.45,Sales,Booking.com
+2025-04-02,Professional Services,4447.83,Sales,Anderson Tax LLP
+2025-04-02,IT,132.25,Sales,AWS
+2025-04-02,Equipment,366.01,Engineering,Best Buy
+2025-04-02,IT,197.21,Finance,Datadog
+2025-04-02,it,695.53,Engineering, GitHub  
+2025-04-03,Equipment,394.79,HR,Best Buy
+2025-04-03,Marketing,610.32,Engineering,Google Ads
+2025-04-03,  Office Supplies ,119.04,HR,Staples
+2025-04-03,Office Supplies,112.00,Engineering,Amazon Business
+2025-04-03,Professional Services,4745.68,Operations,Reed & Co Legal
+2025-04-03,Equipment,724.23,Engineering,CDW
+2025-04-04,Marketing,314.26,Engineering,LinkedIn Ads
+2025-04-05,OFFICE SUPPLIES,117.33,Operations,Office Depot
+2025-04-06,Office Supplies,72.09,Engineering,Staples
+2025-04-07,Travel,780.23,Sales,Delta
+2025-04-07,facilities,756.27,Sales,WeWork
+2025-04-07,IT,367.25,Engineering,Zoom
+2025-04-07,Marketing,997.21,Operations,Meta Ads
+2025-04-08,Facilities,554.43,Engineering,Spectrum
+2025-04-08,Office Supplies,96.46,HR,Amazon Business
+2025-04-08,IT,207.84,Sales,Datadog
+2025-04-08,MARKETING,1031.78,Sales, LinkedIn Ads  
+2025-04-09,Facilities,576.54,HR,Comcast Business
+2025-04-09,IT,395.59,Sales,Datadog
+2025-04-09,Equipment,439.20,Sales,CDW
+2025-04-10,Professional Services,1975.38,Operations,Deloitte
+2025-04-11,TRAVEL,272.17,Engineering,Uber
+2025-04-11,IT,993.68,Sales,Datadog
+2025-04-12,Travel,296.26,Engineering,Delta
+2025-04-13,Marketing,567.46,Engineering,LinkedIn Ads
+2025-04-13,Facilities,541.28,Engineering,WeWork
+2025-04-13,IT,822.84,Finance,Notion
+2025-04-13,Marketing,256.95,Sales,LinkedIn Ads
+2025-04-13,Marketing,731.42,HR,LinkedIn Ads
+2025-04-14, IT  ,238.28,Sales, AWS  
+2025-04-14,travel,162.63,Sales,Booking.com
+2025-04-15,Office Supplies,181.93,HR,Staples
+2025-04-15,Professional Services,2238.79,HR,Reed & Co Legal
+2025-04-15,Office Supplies,38.59,Sales,Office Depot
+2025-04-15,Travel,175.87,HR,Lyft
+2025-04-15,IT,436.85,Finance,Datadog
+2025-04-15,Marketing,361.17,Engineering,LinkedIn Ads
+2025-04-16,Marketing,177.29,Operations,Canva
+2025-04-17,IT,528.95,Operations,Salesforce
+2025-04-18,Marketing,264.40,Finance,LinkedIn Ads
+2025-04-18,IT,285.63,Sales,Notion
+2025-04-18,I.T.,204.59,Engineering,GitHub
+2025-04-18,IT,1021.54,Finance,GitHub
+2025-04-19,Travel,329.40,Sales,Uber
+2025-04-20,  Office Supplies ,196.43,Engineering,Office Depot
+2025-04-21,TRAVEL,951.85,Sales,Lyft
+2025-04-21,Marketing,857.71,Engineering,Meta Ads
+2025-04-22,Marketing,1136.35,Sales,Mailchimp
+2025-04-22,Marketing,511.16,Sales, Meta Ads  
+2025-04-22,office supplies,177.33,HR,Staples
+2025-04-23,Marketing,550.94,Operations,Mailchimp
+2025-04-23,Office Supplies,104.09,Engineering,Staples
+2025-04-23,it,720.91,Sales,Salesforce
+2025-04-23,IT,644.14,Engineering,GitHub
+2025-04-24,IT,348.09,Engineering,Datadog
+2025-04-24,IT,530.03,Engineering,Salesforce
+2025-04-24,Travel,499.94,Engineering,Delta
+2025-04-25,Facilities,984.91,Operations,WeWork
+2025-04-26,IT,535.46,Operations,Atlassian
+2025-04-26,IT,586.32,Engineering,Notion
+2025-04-26,Office Supplies,149.44,Engineering,Staples
+2025-04-27,IT,326.73,Engineering,Zoom
+2025-04-27,Marketing,581.42,Engineering,HubSpot
+2025-04-28,Office Supplies,150.39,Finance,Amazon Business
+2025-04-29,IT,418.49,Engineering, AWS  
+2025-04-29,Equipment,448.12,Operations,Dell
+2025-04-29,Marketing,636.16,Finance,Canva
+2025-04-29,  IT ,306.23,Finance,Zoom
+2025-04-29,Marketing,110.52,Engineering,Mailchimp
+2025-04-30,IT,396.09,Sales,Salesforce
+2025-05-02,IT,255.57,Operations,Datadog
+2025-05-02,Marketing,838.04,Operations, Google Ads  
+2025-05-02, IT  ,894.01,HR,Salesforce
+2025-05-02,Marketing,857.48,Operations,HubSpot
+2025-05-04,Marketing,570.10,Engineering,Meta Ads
+2025-05-04,Equipment,313.39,Engineering,Dell
+2025-05-04,Office Supplies,93.06,Operations,Staples
+2025-05-04,Travel,472.25,HR,Marriott
+2025-05-05,I.T.,789.46,Finance,Notion
+2025-05-07,Professional Services,2523.89,Finance,Deloitte
+2025-05-07,Marketing,413.62,Engineering,Canva
+2025-05-07,IT,716.06,HR,GitHub
+2025-05-07,Professional Services,4850.80,Engineering,Mercer Consulting
+2025-05-09,Travel,541.20,Finance,Delta
+2025-05-09,Marketing,1056.15,Sales,LinkedIn Ads
+2025-05-09,IT,631.31,Engineering,Atlassian
+2025-05-09,IT,882.34,Sales,Datadog
+2025-05-09,Office Supplies,69.81,Sales,Staples
+2025-05-10,IT,333.79,Sales, Slack  
+2025-05-10,Professional Services,1926.22,Sales,Deloitte
+2025-05-10,Travel,504.83,Operations,Lyft
+2025-05-10,Travel,620.69,Engineering,Marriott
+2025-05-11,Marketing,306.16,Operations,Canva
+2025-05-11,IT,246.70,HR,Microsoft 365
+2025-05-11,Equipment,502.70,HR,Best Buy
+2025-05-11,IT,321.85,Sales,GitHub
+2025-05-12,IT,420.98,Sales,GitHub
+2025-05-12,IT,357.30,Sales,Notion
+2025-05-12,equipment,901.11,Sales,Apple
+2025-05-12,Marketing,609.87,Operations,Canva
+2025-05-12,Marketing,659.50,Engineering,HubSpot
+2025-05-12,Facilities,1652.44,Operations,WeWork
+2025-05-12, I.T.  ,267.99,Finance,Microsoft 365
+2025-05-13,IT,194.47,Engineering,Atlassian
+2025-05-13,IT,491.32,Engineering,  Atlassian 
+2025-05-13,IT,529.07,Operations,GitHub
+2025-05-13,I.T.,268.25,Sales,Notion
+2025-05-14,Marketing,198.04,Sales,LinkedIn Ads
+2025-05-14,Office Supplies,130.17,Operations,Office Depot
+2025-05-14,Professional Services,3429.67,Finance,Mercer Consulting
+2025-05-14,Travel,135.42,Sales,Uber
+2025-05-14,Marketing,398.62,Finance,LinkedIn Ads
+2025-05-14,IT,150.64,Sales,Microsoft 365
+2025-05-14,Facilities,2033.12,Operations,Spectrum
+2025-05-14,Marketing,1196.11,Sales,LinkedIn Ads
+2025-05-16,Travel,322.59,Sales,Delta
+2025-05-16,IT,243.35,Finance,GitHub
+2025-05-16,IT,237.78,Engineering,Atlassian
+2025-05-16,IT,939.30,Operations,Microsoft 365
+2025-05-16,IT,367.47,Engineering,GitHub
+2025-05-17,IT,205.42,Sales,Zoom
+2025-05-17, Equipment  ,871.15,Engineering,CDW
+2025-05-17,Marketing,216.33,Operations,Meta Ads
+2025-05-17,Marketing,431.64,Engineering,Canva
+2025-05-18,Professional Services,7321.89,Sales,Reed & Co Legal
+2025-05-18,Travel,748.08,HR,Lyft
+2025-05-19,Travel,315.34,Finance,Uber
+2025-05-19,Marketing,362.95,Engineering,Canva
+2025-05-20,Travel,662.54,Operations,Lyft
+2025-05-20,Travel,170.46,Operations,United Airlines
+2025-05-20,Office Supplies,182.97,Engineering,Staples
+2025-05-20,Marketing,,Engineering,HubSpot
+2025-05-21,Travel,402.24,Sales,Marriott
+2025-05-21,  IT ,793.20,Sales,Datadog
+2025-05-21,Equipment,709.21,Operations,Apple
+2025-05-22,Office supplies,175.61,Engineering,Staples
+2025-05-22,IT,428.79,Sales,Datadog
+2025-05-23,facilities,1487.33,Engineering,Spectrum
+2025-05-23,Professional Services,6902.45,Sales,Anderson Tax LLP
+2025-05-23,Equipment,605.34,HR,Dell
+2025-05-23,IT,457.82,Operations,Microsoft 365
+2025-05-23,Office Supplies,75.95,Sales,Office Depot
+2025-05-23,IT,368.84,Sales,GitHub
+2025-05-24,Marketing,377.95,Engineering,Google Ads
+2025-05-24,Marketing,264.73,Engineering,HubSpot
+2025-05-24,Equipment,735.91,HR,Best Buy
+2025-05-25,Professional Services,1012.92,Finance,Anderson Tax LLP
+2025-05-25,Facilities,1511.40,Finance,Pacific Gas & Electric
+2025-05-25,Marketing,435.82,HR,HubSpot
+2025-05-26, Equipment  ,636.23,HR,Dell
+2025-05-26,Professional Services,678.28,Sales,Reed & Co Legal
+2025-05-26,Travel,215.30,Engineering,Uber
+2025-05-26,IT,413.24,Sales,Zoom
+2025-05-27,TRAVEL,463.31,Operations,United Airlines
+2025-05-28,Office Supplies,222.69,Engineering,Office Depot
+2025-05-28,TRAVEL,142.47,Engineering,Booking.com
+2025-05-28,IT,601.20,Sales,Zoom
+2025-05-29,Facilities,983.49,Sales,Pacific Gas & Electric
+2025-05-29,IT,164.87,Operations,Datadog
+2025-05-29,Travel,141.99,Engineering,Lyft
+2025-05-29,IT,268.68,Operations,Microsoft 365
+2025-05-29,Facilities,2063.34,HR,WeWork
+2025-05-30,IT,223.24,Operations,AWS
+2025-05-30,Marketing,378.20,Sales,Mailchimp
+2025-05-30,Travel,355.89,HR,Uber
+2025-05-31,Equipment,684.41,Sales,CDW
+2025-05-31,Equipment,972.99,Engineering,CDW
+2025-06-01,Marketing,200.94,Engineering,Mailchimp
+2025-06-01,Office Supplies,214.18,Operations,Staples
+2025-06-01,Office Supplies,202.48,Operations,Amazon Business
+2025-06-01,IT,217.38,Sales,AWS
+2025-06-01,Marketing,358.23,Operations,Mailchimp
+2025-06-02,EQUIPMENT,957.09,Sales,Apple
+2025-06-02,Facilities,1161.12,Sales,WeWork
+2025-06-02,Marketing,316.30,Finance,Canva
+2025-06-03,Travel,424.27,Operations,Delta
+2025-06-03,Equipment,1097.36,Sales,Dell
+2025-06-04,Facilities,909.57,Engineering,Pacific Gas & Electric
+2025-06-05,Travel,465.40,HR,Lyft
+2025-06-05, Travel  ,419.07,Engineering,Delta
+2025-06-05,Equipment,525.65,Sales,CDW
+2025-06-05,IT,399.71,Sales,Atlassian
+2025-06-06,Equipment,155.69,Engineering,Best Buy
+2025-06-06,Facilities,1194.84,Engineering,Comcast Business
+2025-06-07,Office Supplies,90.75,Sales,Amazon Business
+2025-06-07,Facilities,1973.39,Engineering,Pacific Gas & Electric
+2025-06-07,IT,694.45,Engineering,Microsoft 365
+2025-06-08,Office Supplies,136.50,Engineering,Amazon Business
+2025-06-08,Marketing,1135.57,Finance,Mailchimp
+2025-06-08,I.T.,214.11,Operations,Slack
+2025-06-09,Marketing,349.85,Operations,Mailchimp
+2025-06-09,IT,101.06,Sales,Salesforce
+2025-06-09,Travel,405.53,Finance,Lyft
+2025-06-09,Equipment,319.86,Engineering,Best Buy
+2025-06-09,Professional Services,4333.76,Engineering,Deloitte
+2025-06-10,Travel,846.17,Sales,Delta
+2025-06-10,IT,307.81,Engineering,Microsoft 365
+2025-06-10,Travel,406.56,Operations,Marriott
+2025-06-10,IT,1143.99,Operations,Atlassian
+2025-06-10,IT,631.48,Engineering,Slack
+2025-06-11,Office Supplies,55.19,Finance,Office Depot
+2025-06-11,Professional Services,1617.40,Sales,Deloitte
+2025-06-11,TRAVEL,498.35,Engineering,Uber
+2025-06-12,Professional Services,5642.13,Sales,Deloitte
+2025-06-12,Professional Services,4251.21,Operations,Reed & Co Legal
+2025-06-12,Marketing,799.51,Engineering,Canva
+2025-06-13,IT,338.11,Sales,Slack
+2025-06-13,Equipment,626.09,Sales,Best Buy
+2025-06-13,IT,479.71,Engineering,Datadog
+2025-06-13,IT,1013.70,Operations,Zoom
+2025-06-14,Travel,614.93,Finance,Delta
+2025-06-14,Travel,628.84,Sales,Lyft
+2025-06-14,Marketing,1044.63,Engineering, LinkedIn Ads  
+2025-06-14,Travel,333.36,Operations,United Airlines
+2025-06-15,IT,638.15,Engineering,AWS
+2025-06-15,Travel,215.53,Sales,Booking.com
+2025-06-15,IT,176.32,Sales,Salesforce
+2025-06-15,IT,589.31,Operations,GitHub
+2025-06-15,Facilities,2084.51,Sales,Pacific Gas & Electric
+2025-06-15,Marketing,969.69,Sales,  Google Ads 
+2025-06-15,Equipment,599.55,Finance,Best Buy
+2025-06-16,Office Supplies,68.22,Engineering,Staples
+2025-06-16,Travel,316.14,Operations,Booking.com
+2025-06-17,Marketing,508.08,Sales,Meta Ads
+2025-06-17,IT,215.28,HR,Datadog
+2025-06-17,Equipment,578.35,Engineering,Apple
+2025-06-18,Office Supplies,123.80,Engineering,Staples
+2025-06-18,Travel,399.82,Operations,Marriott
+2025-06-18,Marketing,1096.78,Operations,Canva
+2025-06-18,IT,979.45,Operations,Salesforce
+2025-06-18,Equipment,430.01,Operations,Dell
+2025-06-19,Equipment,356.80,Finance,Apple
+2025-06-19,Travel,761.70,Sales,Lyft
+2025-06-19,Marketing,983.43,Engineering,HubSpot
+2025-06-19,Marketing,333.71,Engineering,Google Ads
+2025-06-21,marketing,665.30,Sales,HubSpot
+2025-06-22,it,596.25,HR,Notion
+2025-06-22,Office Supplies,64.93,Engineering,Amazon Business
+2025-06-22,  Facilities ,2057.94,Finance,WeWork
+2025-06-23,Facilities,812.54,Sales,Spectrum
+2025-06-23,Facilities,1634.50,Sales,WeWork
+2025-06-24,Office Supplies,98.71,Sales,Amazon Business
+2025-06-24,Marketing,465.33,Sales,Canva
+2025-06-24,Marketing,547.15,Engineering,Mailchimp
+2025-06-25,Marketing,555.94,Finance,Canva
+2025-06-25,Marketing,705.63,Sales,Google Ads
+2025-06-26,Facilities,965.30,Engineering,WeWork
+2025-06-26,Marketing,152.52,Engineering,LinkedIn Ads
+2025-06-26,Marketing,399.55,Operations,Mailchimp
+2025-06-27,Marketing,315.84,Sales,Google Ads
+2025-06-27,Office Supplies,152.10,Operations,Staples
+2025-06-27,Travel,156.01,Sales,Marriott
+2025-06-27,MARKETING,423.22,Operations,Canva
+2025-06-28,Facilities,454.27,Sales,WeWork
+2025-06-28,Marketing,835.48,Sales,Google Ads
+2025-06-28,Professional Services,6243.70,Sales,Anderson Tax LLP
+2025-06-28,Office Supplies,122.69,Sales,Staples
+2025-06-28, I.T.  ,538.77,Engineering,Notion
+2025-06-28,Office Supplies,122.80,Sales,Staples
+2025-06-29,IT,175.36,HR,GitHub
+2025-06-29,IT,332.00,Engineering,Slack
+2025-06-29,Travel,117.64,Operations,Marriott
+2025-06-30,Office Supplies,114.46,Engineering,Amazon Business
+2025-06-30,Office Supplies,220.71,Operations,Office Depot
+2025-06-30,facilities,2116.53,Sales,Comcast Business
+2025-07-01,IT,224.83,Engineering,Slack
+2025-07-01,I.T.,331.16,Engineering,AWS
+2025-07-01,IT,354.11,HR,Atlassian
+2025-07-02,Marketing,529.22,Engineering,Canva
+2025-07-02,Marketing,1025.66,Sales,Meta Ads
+2025-07-02,IT,564.21,Operations,Datadog
+2025-07-02,Travel,332.19,Sales,Delta
+2025-07-03,marketing,199.45,Engineering,Meta Ads
+2025-07-03,Marketing,537.01,HR,LinkedIn Ads
+2025-07-03,Marketing,740.34,Engineering,Google Ads
+2025-07-04,Equipment,1195.95,Engineering,Dell
+2025-07-04,Marketing,860.39,HR,LinkedIn Ads
+2025-07-05,Equipment,944.26,Sales,Apple
+2025-07-05,IT,920.47,Operations, AWS  
+2025-07-06,IT,243.92,Operations,Salesforce
+2025-07-06,Marketing,905.95,Operations,HubSpot
+2025-07-06,IT,603.23,Engineering,Datadog
+2025-07-07,IT,551.74,Operations,Microsoft 365
+2025-07-07,Marketing,368.56,Finance,Mailchimp
+2025-07-08,OFFICE SUPPLIES,96.90,Finance,Staples
+2025-07-08,Marketing,676.95,Operations,Meta Ads
+2025-07-09,Marketing,560.83,Operations,LinkedIn Ads
+2025-07-09,Facilities,762.03,Sales,Comcast Business
+2025-07-09,IT,936.89,Engineering,GitHub
+2025-07-10,Marketing,423.39,Engineering,Mailchimp
+2025-07-10,Travel,137.07,Engineering,United Airlines
+2025-07-10,Travel,159.52,Engineering,Lyft
+2025-07-11,Marketing,338.66,Engineering,Canva
+2025-07-11,  Equipment ,167.67,Sales,CDW
+2025-07-11,Travel,159.61,Operations,Delta
+2025-07-11,IT,774.09,Engineering,AWS
+2025-07-12,IT,213.37,Engineering,Slack
+2025-07-12,Marketing,1153.09,Operations,Meta Ads
+2025-07-12,Office Supplies,184.60,Sales,Amazon Business
+2025-07-13,IT,323.05,Finance,Slack
+2025-07-13,Office Supplies,67.37,Engineering,Staples
+2025-07-14,IT,256.99,Sales,Salesforce
+2025-07-14,Travel,375.72,Engineering,Booking.com
+2025-07-14,Office Supplies,61.52,Sales, Amazon Business  
+2025-07-15,Facilities,1271.13,Sales,Spectrum
+2025-07-15,IT,383.40,Operations,Microsoft 365
+2025-07-16,Travel,142.04,Sales,United Airlines
+2025-07-16,Facilities,1280.63,Sales,Pacific Gas & Electric
+2025-07-16, IT  ,524.80,HR,Zoom
+2025-07-16,Equipment,456.90,Engineering,Apple
+2025-07-16,I.T.,363.65,Sales,AWS
+2025-07-17,Travel,139.29,Engineering,Booking.com
+2025-07-17,Marketing,777.86,Engineering,Meta Ads
+2025-07-18,Facilities,497.57,Engineering,Comcast Business
+2025-07-18,IT,235.74,Engineering,GitHub
+2025-07-18,Facilities,750.83,Engineering,WeWork
+2025-07-18,IT,1107.52,Engineering,Atlassian
+2025-07-19,IT,659.53,Engineering,AWS
+2025-07-19,  Travel ,299.54,Sales,United Airlines
+2025-07-19,IT,186.78,Finance,Microsoft 365
+2025-07-19,Marketing,401.70,Finance,LinkedIn Ads
+2025-07-19,Facilities,685.04,Operations,WeWork
+2025-07-20,IT,917.69,Sales,Notion
+2025-07-20,IT,622.32,Engineering,Slack
+2025-07-20,Office Supplies,221.47,Sales,Staples
+2025-07-21,IT,205.66,Sales,Datadog
+2025-07-21,IT,699.50,Finance,Atlassian
+2025-07-22,Travel,12500.00,Sales,United Airlines
+2025-07-22,Equipment,321.84,HR,Best Buy
+2025-07-22,Equipment,754.50,Engineering,Dell
+2025-07-22,  Marketing ,642.09,Engineering,Google Ads
+2025-07-22,Marketing,692.21,Engineering,Meta Ads
+2025-07-23,Travel,426.17,Engineering,United Airlines
+2025-07-23,Marketing,1196.42,Sales,Mailchimp
+2025-07-23,Facilities,337.93,Operations,Spectrum
+2025-07-24,IT,500.38,Operations,Notion
+2025-07-24,Travel,396.22,Finance,United Airlines
+2025-07-24,Facilities,620.71,Operations,Pacific Gas & Electric
+2025-07-24,IT,363.22,Finance,Atlassian
+2025-07-24,Facilities,727.06,Engineering,WeWork
+2025-07-25,Equipment,409.46,Operations,Best Buy
+2025-07-25,equipment,210.97,Finance,Apple
+2025-07-25,Facilities,1671.83,Engineering,WeWork
+2025-07-25,Facilities,807.74,HR,Comcast Business
+2025-07-27,Marketing,289.63,HR,Google Ads
+2025-07-27,Travel,589.82,Operations,Booking.com
+2025-07-27,Marketing,332.06,Sales,Google Ads
+2025-07-28,IT,399.73,Engineering,Microsoft 365
+2025-07-28,Facilities,521.21,Sales,WeWork
+2025-07-28,Office Supplies,196.49,Sales,Staples
+2025-07-29,Equipment,917.83,HR,Best Buy
+2025-07-30,Office Supplies,213.13,Finance,Amazon Business
+2025-07-30,Marketing,366.94,Engineering,LinkedIn Ads
+2025-07-31,TRAVEL,276.73,Operations,Lyft
+2025-08-01,Office Supplies,151.56,Finance,Office Depot
+2025-08-01,IT,311.45,Engineering,Microsoft 365
+2025-08-01,Marketing,455.26,Sales,Google Ads
+2025-08-01,EQUIPMENT,672.06,Finance,Apple
+2025-08-01, IT  ,432.65,Engineering,AWS
+2025-08-02,Travel,301.60,Finance,United Airlines
+2025-08-02, Marketing  ,849.66,Sales,Google Ads
+2025-08-03,IT,115.45,Finance,GitHub
+2025-08-03,Marketing,292.33,Engineering,Meta Ads
+2025-08-04,Office Supplies,180.31,Engineering,Staples
+2025-08-04,Travel,749.50,Finance,United Airlines
+2025-08-04,TRAVEL,198.74,Sales,Delta
+2025-08-04,  Office Supplies ,55.13,Sales,Amazon Business
+2025-08-05,Facilities,641.57,Engineering,Comcast Business
+2025-08-05,marketing,807.57,Sales,Google Ads
+2025-08-06,IT,218.87,Operations,Atlassian
+2025-08-07,Marketing,353.30,Sales, Meta Ads  
+2025-08-08,Marketing,864.51,Operations,Meta Ads
+2025-08-08,Marketing,846.03,Sales,LinkedIn Ads
+2025-08-08,Travel,214.09,Operations,Delta
+2025-08-08,Office Supplies,52.95,Engineering,Staples
+2025-08-08,Equipment,874.10,Engineering,Best Buy
+2025-08-08,Marketing,376.15,Finance,Google Ads
+2025-08-08,Office Supplies,155.66,Finance,Office Depot
+2025-08-09,Marketing,267.15,Finance,Google Ads
+2025-08-09,Travel,303.92,Operations,Lyft
+2025-08-09,IT,328.18,Sales,Datadog
+2025-08-09,Facilities,966.86,HR,  Pacific Gas & Electric 
+2025-08-09,IT,345.43,Engineering, GitHub  
+2025-08-10,MKTG,998.32,Finance,Canva
+2025-08-10,Facilities,2093.21,Engineering,WeWork
+2025-08-11,Equipment,859.48,Sales,Apple
+2025-08-12,Travel,554.05,Operations,United Airlines
+2025-08-12,Travel,164.57,Engineering,Lyft
+2025-08-12,  Marketing ,880.41,Operations,LinkedIn Ads
+2025-08-12,IT,245.18,Engineering,AWS
+2025-08-14,Marketing,249.28,HR,Google Ads
+2025-08-14,IT,638.15,Sales,AWS
+2025-08-15,IT,104.33,Operations,Microsoft 365
+2025-08-15,Facilities,929.21,Engineering,Comcast Business
+2025-08-15,IT,519.02,Sales,Salesforce
+2025-08-15,Office Supplies,179.84,Engineering,Office Depot
+2025-08-16,travel,173.12,Operations,Marriott
+2025-08-16,IT,280.41,Finance, Salesforce  
+2025-08-16,Travel,231.25,Engineering,Marriott
+2025-08-16,Information Technology,335.09,Sales,Microsoft 365
+2025-08-16,Travel,539.07,Engineering,United Airlines
+2025-08-16,Marketing,268.27,Finance, LinkedIn Ads  
+2025-08-16,Travel,227.15,Sales,Uber
+2025-08-16,IT,830.42,Engineering,Slack
+2025-08-16,Equipment,589.68,Finance,Apple
+2025-08-17,Marketing,565.21,Sales,LinkedIn Ads
+2025-08-17,Marketing,290.72,Sales,Google Ads
+2025-08-17,Marketing,1280.10,Engineering,Mailchimp
+2025-08-17,Travel,938.25,Sales,United Airlines
+2025-08-17,  Marketing ,941.19,Sales,Canva
+2025-08-17,Travel,534.47,Operations,Lyft
+2025-08-17,Marketing,734.24,Sales,Google Ads
+2025-08-18,Marketing,372.06,Sales,Canva
+2025-08-18,Equipment,597.00,Finance,Dell
+2025-08-18,Equipment,472.18,Operations,Best Buy
+2025-08-18,  IT ,545.34,Engineering,Salesforce
+2025-08-19,Travel,280.82,Sales,Lyft
+2025-08-20,Travel,319.32,Engineering,Lyft
+2025-08-20,Marketing,414.32,Engineering,LinkedIn Ads
+2025-08-20,Information Technology,220.69,Sales,Slack
+2025-08-21,Information Technology,28.09,Finance,Slack
+2025-08-21,Office Supplies,42.43,Engineering,Staples
+2025-08-21,IT,895.90,Sales,Slack
+2025-08-21,Equipment,300.88,Operations,Best Buy
+2025-08-22,IT,93.19,Operations,Microsoft 365
+2025-08-22,Travel,497.95,Operations,United Airlines
+2025-08-22,it,144.46,Engineering,Datadog
+2025-08-22, Facilities  ,1390.09,HR,Spectrum
+2025-08-23,IT,50.31,Engineering,Microsoft 365
+2025-08-23,Travel,717.68,HR,Booking.com
+2025-08-24,IT,404.55,Engineering,Notion
+2025-08-24,IT,984.76,Operations,Salesforce
+2025-08-24,IT,81.88,Engineering,Zoom
+2025-08-24,IT,245.69,Sales,Microsoft 365
+2025-08-24,IT,113.75,Engineering,Zoom
+2025-08-25,Marketing,683.13,Finance,Google Ads
+2025-08-25,IT,407.68,Sales,Microsoft 365
+2025-08-27,IT,863.81,Engineering,Salesforce
+2025-08-27,Travel,385.57,Engineering,Delta
+2025-08-27,IT,668.55,Sales,Datadog
+2025-08-27,  Facilities ,651.90,Sales, Pacific Gas & Electric  
+2025-08-27,Facilities,670.78,Engineering,WeWork
+2025-08-28,Travel,349.52,Operations,United Airlines
+2025-08-28,IT,167.57,Finance,GitHub
+2025-08-28,Facilities,1014.66,Sales,Spectrum
+2025-08-28,IT,125.92,Finance,Datadog
+2025-08-29,  marketing ,451.47,Engineering,Google Ads
+2025-08-29,Facilities,1133.05,Sales,WeWork
+2025-08-29,Travel,298.92,Sales,Marriott
+2025-08-29,Equipment,827.95,Engineering,CDW
+2025-08-30,Facilities,975.06,Sales,Comcast Business
+2025-08-30,Marketing,888.05,Finance,Canva
+2025-08-30,Office Supplies,4200.00,Operations,Amazon Business
+2025-08-30,EQUIPMENT,1091.95,Sales,CDW
+2025-09-01,Marketing,535.92,Sales,LinkedIn Ads
+2025-09-01,Equipment,1324.57,Sales,Dell
+2025-09-01,Marketing,165.04,Sales,Google Ads
+2025-09-01,IT,234.96,Engineering, Microsoft 365  
+2025-09-02,Facilities,1805.90,Operations,WeWork
+2025-09-02,Travel,295.78,Sales,Marriott
+2025-09-03,Facilities,256.77,HR,Spectrum
+2025-09-03,Travel,147.59,Operations,Marriott
+2025-09-03,Marketing,895.50,Operations,Google Ads
+2025-09-04,Professional Services,4771.47,Sales,Deloitte
+2025-09-04,Facilities,550.02,Sales,Pacific Gas & Electric
+2025-09-04,Marketing,490.47,Sales,Meta Ads
+2025-09-04,Equipment,589.01,Engineering,Dell
+2025-09-04,IT,909.37,Sales,Zoom
+2025-09-04,  Office Supplies ,128.26,HR,Staples
+2025-09-05,Marketing,1408.03,HR,Meta Ads
+2025-09-05,Marketing,915.54,Finance,Google Ads
+2025-09-06,Marketing,490.73,HR,Canva
+2025-09-06,Travel,440.63,Sales,Lyft
+2025-09-06,Marketing,1259.77,HR,Meta Ads
+2025-09-06,Office Supplies,195.05,Engineering,Office Depot
+2025-09-07,Marketing,506.18,Engineering,Canva
+2025-09-07,IT,661.91,Sales,AWS
+2025-09-07,Travel,260.98,Engineering,Marriott
+2025-09-07,Facilities,2027.26,Engineering,Spectrum
+2025-09-08,Equipment,385.49,Operations,Best Buy
+2025-09-08,Marketing,332.66,Engineering,Meta Ads
+2025-09-08,Office Supplies,55.62,Operations,Staples
+2025-09-08,IT,717.47,Sales,AWS
+2025-09-09,Facilities,2039.43,Sales,Spectrum
+2025-09-09,IT,211.88,HR,Atlassian
+2025-09-09,Travel,373.79,Engineering,Marriott
+2025-09-10,MARKETING,819.35,Sales,LinkedIn Ads
+2025-09-10,travel,462.47,Sales,Delta
+2025-09-11,Travel,348.36,Sales,Marriott
+2025-09-11,  IT ,159.58,Operations,Atlassian
+2025-09-11,IT,322.36,Sales,  Atlassian 
+2025-09-11,IT,944.40,Engineering,GitHub
+2025-09-12,Office Supplies,38.05,Sales,Staples
+2025-09-12,Marketing,45000.00,Sales,LinkedIn Ads
+2025-09-13,Facilities,2284.33,Engineering,WeWork
+2025-09-13,Equipment,476.46,Sales, Best Buy  
+2025-09-14,Marketing,404.13,Operations,Canva
+2025-09-14,Office Supplies,127.67,Sales,Amazon Business
+2025-09-14,Marketing,677.18,HR,Meta Ads
+2025-09-14,Office Supplies,210.57,Engineering,Amazon Business
+2025-09-15,Travel,271.56,Sales,Marriott
+2025-09-15,IT,109.90,Operations,AWS
+2025-09-15,Equipment,929.99,Sales,Dell
+2025-09-16,IT,858.74,Sales,Zoom
+2025-09-17,Travel,241.30,Finance,Uber
+2025-09-17,Office Supplies,44.11,Engineering,Amazon Business
+2025-09-18,  IT ,421.67,Operations,Atlassian
+2025-09-18,Travel,501.72,Engineering,Marriott
+2025-09-19,IT,260.72,Finance,GitHub
+2025-09-19,Office Supplies,142.42,Sales,Amazon Business
+2025-09-19, Equipment  ,293.97,Sales,Dell
+2025-09-19,IT,77.77,Sales,AWS
+2025-09-20,  Marketing ,395.74,HR,Mailchimp
+2025-09-20,Travel,920.88,Sales,Marriott
+2025-09-21,Travel,851.03,HR,Marriott
+2025-09-21,OFFICE SUPPLIES,202.56,Sales,  Office Depot 
+2025-09-21,Travel,231.01,Operations,Lyft
+2025-09-21,Marketing,229.97,HR,Meta Ads
+2025-09-21,Office Supplies,121.38,Sales,Office Depot
+2025-09-21,IT,89.41,Sales,Slack
+2025-09-22,Equipment,441.30,Operations,CDW
+2025-09-22,Office Supplies,136.45,Engineering,Staples
+2025-09-22,Office Supplies,123.09,Operations,Staples
+2025-09-23,Office Supplies,100.96,Sales,Amazon Business
+2025-09-23,Travel,251.03,Finance,  Delta 
+2025-09-23,Travel,249.45,Engineering,United Airlines
+2025-09-24,IT,460.98,HR,Salesforce
+2025-09-24,Equipment,576.17,Engineering,Dell
+2025-09-24,Professional Services,2522.30,Engineering,Anderson Tax LLP
+2025-09-24,IT,687.05,HR,Salesforce
+2025-09-25,Office Supplies,116.24,Sales,Staples
+2025-09-25,IT,815.26,Sales,Notion
+2025-09-25,Travel,217.24,Sales,Uber
+2025-09-25,Marketing,412.15,Operations,LinkedIn Ads
+2025-09-25,Equipment,812.58,Sales,Best Buy
+2025-09-26,  Travel ,906.28,Sales,Lyft
+2025-09-26,travel,656.12,Sales,Uber
+2025-09-28, Marketing  ,307.03,Sales,HubSpot
+2025-09-28,Travel,595.87,Engineering,Lyft
+2025-09-28,Professional Services,2353.87,HR,Mercer Consulting
+2025-09-29,Marketing,386.95,Sales,HubSpot
+2025-09-29,IT,495.26,HR, Notion  
+2025-09-29,IT,524.76,Sales,GitHub
+2025-09-29,Information Technology,69.64,HR,Zoom
+2025-09-30,Travel,262.74,Engineering,Lyft
+2025-09-30,IT,823.70,Sales,GitHub
+2025-10-01,Equipment,1009.42,Finance,CDW
+2025-10-01,IT,231.03,Sales,Zoom
+2025-10-01,Office Supplies,243.24,HR,Amazon Business
+2025-10-01,I.T.,374.88,Finance,Slack
+2025-10-01,Marketing,331.89,Operations,Mailchimp
+2025-10-01,  I.T. ,691.23,Finance,Slack
+2025-10-02,Office Supplies,104.97,Operations,Amazon Business
+2025-10-02, Office Supplies  ,92.26,Operations,Office Depot
+2025-10-02,Marketing,627.18,Operations,HubSpot
+2025-10-03,IT,357.24,Engineering,Notion
+2025-10-03,IT,477.19,Engineering,Notion
+2025-10-03,MARKETING,960.88,Sales,HubSpot
+2025-10-03,Marketing,391.77,Sales,Canva
+2025-10-04,Office Supplies,208.50,Engineering,Office Depot
+2025-10-05,IT,551.38,Finance,Salesforce
+2025-10-06,IT,264.11,HR,AWS
+2025-10-06,Marketing,421.19,Sales,Meta Ads
+2025-10-07,Travel,297.54,Engineering,Delta
+2025-10-07,Office Supplies,132.30,Sales,Office Depot
+2025-10-07,Marketing,641.60,Engineering,Mailchimp
+2025-10-07,Travel,194.52,Sales,Marriott
+2025-10-07,Travel,247.65,Sales,United Airlines
+2025-10-07,Information Technology,425.51,Engineering,AWS
+2025-10-07,  Travel ,224.49,Engineering,Delta
+2025-10-08,Facilities,1107.56,Finance,WeWork
+2025-10-08,Marketing,604.85,Engineering,LinkedIn Ads
+2025-10-09,Equipment,670.31,Finance,CDW
+2025-10-09,MKTG,894.63,Finance,HubSpot
+2025-10-10,IT,741.67,Sales,Zoom
+2025-10-10,Equipment,403.03,Sales,Apple
+2025-10-10,Facilities,1467.14,Engineering,Comcast Business
+2025-10-10,IT,218.40,Operations,AWS
+2025-10-10,Facilities,903.25,Finance,WeWork
+2025-10-10,Equipment,771.19,Engineering,Apple
+2025-10-10,Equipment,489.31,Sales,Apple
+2025-10-10,IT,355.12,Finance,AWS
+2025-10-11,marketing,824.68,Operations,Meta Ads
+2025-10-11,Office supplies,153.13,Finance,Amazon Business
+2025-10-11,Marketing,1078.50,Engineering,LinkedIn Ads
+2025-10-11,Equipment,1252.91,Sales,CDW
+2025-10-11,IT,232.29,Sales,Salesforce
+2025-10-12,IT,890.36,Engineering,GitHub
+2025-10-12,Equipment,682.93,Operations,Apple
+2025-10-12,Facilities,282.27,Sales,Pacific Gas & Electric
+2025-10-12,Marketing,548.18,Engineering,LinkedIn Ads
+2025-10-13,Facilities,784.91,Sales,  WeWork 
+2025-10-13,IT,529.59,Engineering,Slack
+2025-10-13,Travel,141.47,Finance,  United Airlines 
+2025-10-13,FACILITIES,1263.46,Operations,Pacific Gas & Electric
+2025-10-13,IT,444.14,Engineering,GitHub
+2025-10-14,Equipment,594.10,Operations,Apple
+2025-10-15,Office Supplies,118.62,Finance,Office Depot
+2025-10-15,Marketing,807.94,HR,Google Ads
+2025-10-15,FACILITIES,1540.80,Engineering,Comcast Business
+2025-10-16,IT,201.12,Engineering,AWS
+2025-10-16,Marketing,325.40,Finance,Google Ads
+2025-10-17,Office Supplies,176.06,Sales,Office Depot
+2025-10-17,IT,545.82,Engineering,AWS
+2025-10-17,Marketing,477.24,Operations,  Mailchimp 
+2025-10-18,Professional Services,6109.22,Finance,Deloitte
+2025-10-18,IT,242.21,Engineering,Slack
+2025-10-18,IT,238.45,Engineering,Microsoft 365
+2025-10-18,IT,237.90,Engineering,GitHub
+2025-10-18,Equipment,373.07,Engineering,Apple
+2025-10-18,Marketing,447.97,Engineering,Meta Ads
+2025-10-19,IT,591.39,Sales,Zoom
+2025-10-19,Travel,389.27,Sales,Uber
+2025-10-19,Marketing,660.94,Operations,HubSpot
+2025-10-19,travel,400.66,Engineering,Lyft
+2025-10-19,Office Supplies,98.03,Engineering,Staples
+2025-10-20,Marketing,398.04,Operations,Mailchimp
+2025-10-20,Travel,146.61,Sales,Booking.com
+2025-10-20,IT,609.46,Engineering, Zoom  
+2025-10-20,MARKETING,1057.57,Finance,Mailchimp
+2025-10-20,Office Supplies,124.83,Sales,Staples
+2025-10-21,IT,534.92,HR,GitHub
+2025-10-21,Travel,266.30,Engineering,Uber
+2025-10-21,MARKETING,698.21,Sales,Meta Ads
+2025-10-21,IT,428.83,Sales,Slack
+2025-10-22,Office Supplies,247.80,Engineering,Office Depot
+2025-10-22, it  ,126.19,Sales,Datadog
+2025-10-22,IT,395.74,Engineering,Notion
+2025-10-23,Travel,605.49,Operations,Delta
+2025-10-23,IT,837.99,Sales,Notion
+2025-10-23,Travel,309.73,Engineering,Lyft
+2025-10-24,Facilities,1407.78,Finance,Spectrum
+2025-10-24,  Office Supplies ,247.34,Engineering,Staples
+2025-10-24,Travel,690.29,Engineering,Lyft
+2025-10-24,Facilities,917.04,Sales,Pacific Gas & Electric
+2025-10-25, IT  ,431.70,Sales,Notion
+2025-10-25,it,574.67,Operations,Zoom
+2025-10-25,Marketing,281.31,Operations,Meta Ads
+2025-10-26,Marketing,985.82,Finance,Canva
+2025-10-26,Travel,386.87,Sales,Uber
+2025-10-27,IT,922.74,Sales,Notion
+2025-10-27,Marketing,419.63,Engineering,Google Ads
+2025-10-27,travel,538.00,Operations,Lyft
+2025-10-27,Facilities,719.92,HR,WeWork
+2025-10-27,  Marketing ,1085.16,Engineering,Mailchimp
+2025-10-27,Facilities,936.27,Operations,Comcast Business
+2025-10-28,Equipment,447.11,HR,CDW
+2025-10-29,IT,434.15,Sales,Microsoft 365
+2025-10-29,Marketing,434.67,Engineering,LinkedIn Ads
+2025-10-30,Travel,396.83,Engineering,United Airlines
+2025-10-30,MKTG,1257.88,HR,Mailchimp
+2025-10-31,Marketing,900.72,Sales,HubSpot
+2025-10-31,IT,570.51,Finance,GitHub
+2025-10-31,Equipment,1028.63,Engineering,Dell
+2025-10-31,IT,784.83,Engineering,AWS
+2025-10-31,IT,352.88,Engineering,Datadog
+2025-11-01,IT,474.71,Engineering,GitHub
+2025-11-01,Marketing,868.20,Finance,Canva
+2025-11-01,IT,801.60,Finance,GitHub
+2025-11-01,Travel,103.39,Sales,Lyft
+2025-11-02,IT,352.54,Finance,Datadog
+2025-11-03,IT,175.83,Finance,Microsoft 365
+2025-11-03,Travel,363.63,Sales,Booking.com
+2025-11-03,Marketing,506.96,Engineering,Canva
+2025-11-03,Equipment,449.27,Sales,Best Buy
+2025-11-03,travel,498.02,Engineering,Uber
+2025-11-03,Marketing,306.34,Sales,LinkedIn Ads
+2025-11-04,Travel,361.15,Sales,United Airlines
+2025-11-04,IT,752.39,Engineering,Microsoft 365
+2025-11-04,Professional Services,85000.00,Finance,Reed & Co Legal
+2025-11-04,Facilities,1272.71,Sales,WeWork
+2025-11-05,Office Supplies,129.86,Engineering,Amazon Business
+2025-11-06,Marketing,672.38,Sales,Meta Ads
+2025-11-06,Travel,729.43,Finance,Uber
+2025-11-06,Travel,317.06,HR,Delta
+2025-11-06,IT,307.97,Engineering,Datadog
+2025-11-07,facilities,1816.67,Sales,  Spectrum 
+2025-11-07,Marketing,244.34,Sales,LinkedIn Ads
+2025-11-08,Equipment,187.25,Engineering,CDW
+2025-11-08,Marketing,768.17,Engineering,Mailchimp
+2025-11-08,Professional Services,3583.66,Engineering,Reed & Co Legal
+2025-11-08,Marketing,294.90,Finance,HubSpot
+2025-11-09,Information Technology,540.35,HR,Salesforce
+2025-11-09,  Travel ,545.07,Engineering,United Airlines
+2025-11-09,Travel,137.79,Finance,Uber
+2025-11-10,Travel,225.23,Operations,United Airlines
+2025-11-10,IT,84.49,Engineering,Zoom
+2025-11-10,Facilities,2025.96,Engineering,Comcast Business
+2025-11-11,Marketing,413.82,Engineering, Google Ads  
+2025-11-12,Office Supplies,70.85,Finance,Amazon Business
+2025-11-12,IT,108.29,Engineering,Salesforce
+2025-11-12,IT,669.78,Operations,Slack
+2025-11-12,IT,512.94,Engineering,Datadog
+2025-11-13,IT,593.14,HR,Atlassian
+2025-11-14,Professional Services,6213.81,Sales,Mercer Consulting
+2025-11-14,Office Supplies,101.19,Engineering,Office Depot
+2025-11-14,Equipment,840.44,Engineering,CDW
+2025-11-15,travel,293.34,Sales,Booking.com
+2025-11-15,Marketing,828.10,Operations,  Meta Ads 
+2025-11-15,IT,594.64,Operations,Zoom
+2025-11-15,Marketing,852.48,Sales,HubSpot
+2025-11-15,Travel,524.28,Sales,Delta
+2025-11-16,Marketing,591.10,Engineering,HubSpot
+2025-11-16,Travel,573.88,Finance,Uber
+2025-11-17, IT  ,870.38,HR,Atlassian
+2025-11-17,Marketing,730.16,Sales,HubSpot
+2025-11-17,Marketing,1403.56,Operations,Canva
+2025-11-17,Equipment,307.38,HR,Apple
+2025-11-17,Marketing,510.31,Finance,LinkedIn Ads
+2025-11-18,Marketing,886.12,Operations,Meta Ads
+2025-11-18,IT,175.70,Sales,Salesforce
+2025-11-18,Equipment,829.21,Sales,Dell
+2025-11-19,Travel,744.99,Engineering,Marriott
+2025-11-20,Information Technology,1037.38,Operations,Zoom
+2025-11-21,Equipment,436.62,Engineering,Apple
+2025-11-21,Facilities,1345.96,Finance,Comcast Business
+2025-11-21,Equipment,434.77,Sales,Best Buy
+2025-11-21,Marketing,356.21,Sales,Google Ads
+2025-11-21,Facilities,1625.15,Operations,Comcast Business
+2025-11-23,Marketing,253.28,Engineering,  HubSpot 
+2025-11-23,Office Supplies,208.35,Sales,Staples
+2025-11-23,Travel,270.48,Engineering,Uber
+2025-11-24,Travel,104.70,Sales,Booking.com
+2025-11-24,Facilities,1004.77,Operations,Comcast Business
+2025-11-25,Equipment,528.55,Sales,Apple
+2025-11-25,Travel,331.36,HR,Delta
+2025-11-26, Marketing  ,421.01,Sales,Mailchimp
+2025-11-26,IT,298.35,Operations,Notion
+2025-11-27,Office Supplies,96.05,Engineering,Amazon Business
+2025-11-27,Marketing,635.01,Operations,Canva
+2025-11-27,I.T.,562.68,Engineering,GitHub
+2025-11-27,Office Supplies,222.66,Engineering,Staples
+2025-11-28,Equipment,867.51,Engineering,Apple
+2025-11-29,Marketing,1245.29,Operations,Canva
+2025-11-29,MKTG,1209.92,Operations,LinkedIn Ads
+2025-11-30,Marketing,1394.66,Operations,Google Ads
+2025-11-30, IT  ,519.33,Sales,Microsoft 365
+2025-12-01,  Marketing ,1404.10,Operations,Meta Ads
+2025-12-01,Equipment,343.71,Operations,Apple
+2025-12-01,Marketing,937.99,Engineering,Mailchimp
+2025-12-01,IT,243.51,Operations,Salesforce
+2025-12-02,Facilities,1220.97,Sales,Comcast Business
+2025-12-02,Professional Services,3649.54,Operations,Anderson Tax LLP
+2025-12-02,Office Supplies,225.19,HR,Amazon Business
+2025-12-03,Marketing,1010.17,Engineering,Meta Ads
+2025-12-03,Equipment,183.74,Operations,Apple
+2025-12-04,IT,167.21,Operations,Datadog
+2025-12-04,IT,309.32,Operations,GitHub
+2025-12-04,Travel,166.41,Sales,United Airlines
+2025-12-04,IT,302.61,Operations,Datadog
+2025-12-04,Travel,233.70,Operations,Booking.com
+2025-12-05,IT,847.12,Engineering,Zoom
+2025-12-05,Marketing,702.33,Operations,LinkedIn Ads
+2025-12-05,Office Supplies,84.66,Engineering,Amazon Business
+2025-12-06,Travel,439.72,Engineering,Uber
+2025-12-06,FACILITIES,471.66,Finance,Pacific Gas & Electric
+2025-12-06,Marketing,852.17,Engineering,Canva
+2025-12-07,Professional Services,2924.92,Engineering,Mercer Consulting
+2025-12-07,Marketing,415.79,Finance,LinkedIn Ads
+2025-12-07,Facilities,1583.84,Engineering,Spectrum
+2025-12-07,Equipment,232.54,Sales,CDW
+2025-12-07,Travel,560.37,Engineering,Marriott
+2025-12-08,Office Supplies,93.27,Engineering,Staples
+2025-12-08,Marketing,344.98,Sales,HubSpot
+2025-12-08,Marketing,415.39,Sales,HubSpot
+2025-12-08,Equipment,572.62,Sales,Dell
+2025-12-08,IT,864.69,Engineering,Salesforce
+2025-12-09,Marketing,243.96,HR,Meta Ads
+2025-12-09,IT,399.19,Sales,Datadog
+2025-12-09,Professional Services,3035.67,Operations,Deloitte
+2025-12-09,Marketing,471.18,Engineering,HubSpot
+2025-12-10,Marketing,226.90,Sales,Mailchimp
+2025-12-10,Travel,198.47,Finance,Uber
+2025-12-11,TRAVEL,452.24,Engineering,Lyft
+2025-12-11,marketing,387.36,Sales,Google Ads
+2025-12-11,Travel,263.08,Finance,Marriott
+2025-12-12,Equipment,810.61,HR,Apple
+2025-12-12,Travel,211.67,Engineering,Uber
+2025-12-14,travel,614.03,Sales,Delta
+2025-12-14,Office Supplies,42.58,Engineering,Amazon Business
+2025-12-14,IT,717.81,Sales,Salesforce
+2025-12-15, Office Supplies  ,61.25,Sales,Staples
+2025-12-15,Facilities,1498.14,Sales,Comcast Business
+2025-12-16,  Marketing ,613.49,Finance,Canva
+2025-12-17,Information Technology,543.84,Sales,Microsoft 365
+2025-12-18,it,125.09,Sales,GitHub
+2025-12-18,travel,469.42,Sales,Booking.com
+2025-12-18,Travel,95.37,Sales,Booking.com
+2025-12-19,IT,580.44,Sales,GitHub
+2025-12-19,  Equipment ,208.12,Operations,  CDW 
+2025-12-19,Travel,639.46,HR,Marriott
+2025-12-19,Travel,732.65,Finance,Lyft
+2025-12-20,IT,806.94,Engineering,Slack
+2025-12-20,Office Supplies,29.55,Operations,Office Depot
+2025-12-21,IT,181.22,Finance,Microsoft 365
+2025-12-21,IT,235.01,Sales,Slack
+2025-12-21,Office Supplies,163.69,Operations,Office Depot
+2025-12-21,Office Supplies,133.11,Sales,Staples
+2025-12-21,it,84.24,Sales,Atlassian
+2025-12-21,IT,176.94,Finance,Salesforce
+2025-12-21,  Facilities ,557.58,HR,Pacific Gas & Electric
+2025-12-22,Travel,646.89,Sales,Delta
+2025-12-22,Marketing,513.89,Engineering,Meta Ads
+2025-12-22,IT,681.59,Sales,Atlassian
+2025-12-22,Professional Services,1135.83,Sales,Anderson Tax LLP
+2025-12-23,Marketing,457.54,Operations,Canva
+2025-12-23,Marketing,444.54,Sales,LinkedIn Ads
+2025-12-23,IT,261.72,Operations,Notion
+2025-12-23,Office Supplies,59.40,Sales,Staples
+2025-12-24,Equipment,769.04,Engineering,CDW
+2025-12-24,IT,83.57,Engineering,Slack
+2025-12-24,Travel,494.00,Sales,United Airlines
+2025-12-24,Marketing,371.59,Finance,LinkedIn Ads
+2025-12-24,IT,909.77,Operations,Slack
+2025-12-25,IT,768.10,Operations,Datadog
+2025-12-25,IT,290.33,Engineering,Salesforce
+2025-12-25,I.T.,775.06,Sales,AWS
+2025-12-25,IT,169.00,Finance,Datadog
+2025-12-27,Marketing,503.04,Engineering,LinkedIn Ads
+2025-12-27,Equipment,419.23,HR,CDW
+2025-12-28,Office Supplies,161.61,Finance,Staples
+2025-12-28, IT  ,174.57,Sales,Notion
+2025-12-28,IT,390.74,Sales,Datadog
+2025-12-29,Travel,525.56,Operations,  Lyft 
+2025-12-29,IT,238.60,Sales,Slack
+2025-12-29,Information Technology,557.44,Sales,Zoom
+2025-12-30,Marketing,293.18,HR, LinkedIn Ads  
+2025-12-30,Travel,139.04,Engineering,Booking.com
+2025-12-30,Marketing,412.62,Operations,HubSpot
+2025-12-30,IT,59.90,Sales,Slack
+2025-12-30,Marketing,707.65,Engineering,HubSpot
+2025-12-30,Office Supplies,113.61,Sales, Amazon Business  
+2025-12-31,Travel,91.98,Operations,Marriott
+2025-12-31,IT,478.02,HR,Microsoft 365
+2026-01-01,Marketing,200.49,Engineering,LinkedIn Ads
+2026-01-01,Travel,385.36,HR,Uber
+2026-01-01,  Travel ,338.31,Engineering,Uber
+2026-01-02,IT,691.12,Operations,Salesforce
+2026-01-02,Office Supplies,75.69,Operations,Office Depot
+2026-01-02,Travel,438.51,Engineering,Marriott
+2026-01-04,Marketing,524.63,Engineering,LinkedIn Ads
+2026-01-04,Facilities,1065.29,Finance,Spectrum
+2026-01-04,IT,228.58,Engineering,Microsoft 365
+2026-01-04, Marketing  ,528.21,Engineering,LinkedIn Ads
+2026-01-05,Travel,857.30,Operations,United Airlines
+2026-01-05, TRAVEL  ,605.62,Engineering,Uber
+2026-01-05,Facilities,890.06,Engineering,WeWork
+2026-01-06,marketing,593.08,Finance, Canva  
+2026-01-06,Travel,311.66,Finance,Lyft
+2026-01-06,IT,523.56,Operations,Datadog
+2026-01-07,OFFICE SUPPLIES,134.48,Finance,Office Depot
+2026-01-07,TRAVEL,230.61,Engineering,Lyft
+2026-01-07,Office Supplies,104.57,Operations,Staples
+2026-01-07,IT,632.85,Sales,Salesforce
+2026-01-08,IT,143.59,Sales,AWS
+2026-01-08,Marketing,1189.55,Sales,Canva
+2026-01-08,IT,447.54,Finance,Salesforce
+2026-01-08,IT,35000.00,Engineering,AWS
+2026-01-09,Travel,191.21,Operations,Booking.com
+2026-01-10,Equipment,401.79,Sales,Dell
+2026-01-10,  IT ,208.24,Engineering,Salesforce
+2026-01-10,IT,600.33,Operations,GitHub
+2026-01-10,Marketing,1165.65,Finance,HubSpot
+2026-01-11,Office Supplies,55.35,HR,Office Depot
+2026-01-13,IT,565.02,Engineering,AWS
+2026-01-13,Equipment,440.60,Sales,CDW
+2026-01-13,IT,207.09,Engineering,  AWS 
+2026-01-13,Facilities,2267.53,Engineering,  Pacific Gas & Electric 
+2026-01-14,FACILITIES,1438.38,Engineering,Pacific Gas & Electric
+2026-01-14, TRAVEL  ,296.83,Operations,Lyft
+2026-01-14,it,169.94,Engineering,GitHub
+2026-01-14,  Facilities ,1821.81,Sales,Comcast Business
+2026-01-14,IT,312.92,Engineering, Slack  
+2026-01-15,Facilities,906.49,Engineering,Comcast Business
+2026-01-17,Marketing,505.30,Sales,Canva
+2026-01-17,Travel,622.82,Engineering,United Airlines
+2026-01-18,Travel,123.83,Engineering,Marriott
+2026-01-18,Office Supplies,101.87,Sales,Staples
+2026-01-19,IT,286.38,HR,Datadog
+2026-01-20,IT,74.33,Finance,Notion
+2026-01-20,Office Supplies,20.52,Operations,Office Depot
+2026-01-21,Office Supplies,118.82,Engineering,Office Depot
+2026-01-22,IT,1036.72,Engineering,Atlassian
+2026-01-22,Marketing,706.37,Engineering,Mailchimp
+2026-01-23,Travel,360.78,HR,Delta
+2026-01-23,Facilities,1534.97,Sales,Pacific Gas & Electric
+2026-01-24,IT,627.42,Sales,Datadog
+2026-01-24,IT,127.38,Operations,Atlassian
+2026-01-25,travel,494.74,Engineering,Booking.com
+2026-01-25,  IT ,796.48,HR,Microsoft 365
+2026-01-26,Office Supplies,268.88,Operations,Office Depot
+2026-01-26,IT,608.20,Engineering,Salesforce
+2026-01-26,Travel,642.79,Operations, United Airlines  
+2026-01-27,IT,489.02,Engineering,Zoom
+2026-01-27,Marketing,887.79,Engineering,HubSpot
+2026-01-29,Marketing,382.01,Engineering,LinkedIn Ads
+2026-01-29,Marketing,887.17,HR,Mailchimp
+2026-01-29,TRAVEL,186.12,Engineering,Uber
+2026-01-30,IT,581.83,Operations,GitHub
+2026-01-30,Travel,694.55,Engineering,Marriott
+2026-01-30,Office Supplies,128.91,Engineering,Office Depot
+2026-01-31,Travel,608.82,Engineering,United Airlines
+2026-02-01,travel,352.91,Finance,United Airlines
+2026-02-01,IT,455.50,Sales,Zoom
+2026-02-02,Marketing,848.16,Operations,Mailchimp
+2026-02-02,Professional Services,3464.00,Operations,Reed & Co Legal
+2026-02-03,IT,552.10,Sales,Slack
+2026-02-03,Marketing,301.92,Finance,Meta Ads
+2026-02-04,Professional Services,3717.39,Engineering,Deloitte
+2026-02-04,IT,611.49,Engineering,Salesforce
+2026-02-04,Marketing,381.55,Engineering,Google Ads
+2026-02-04,Office Supplies,228.60,Operations,Amazon Business
+2026-02-04,Office Supplies,110.26,Sales,Staples
+2026-02-04,Facilities,1759.48,Sales,Spectrum
+2026-02-05,Professional Services,6730.90,Sales,Mercer Consulting
+2026-02-05,IT,470.97,Engineering,Microsoft 365
+2026-02-05,Marketing,410.38,Sales,Meta Ads
+2026-02-06,Marketing,1122.65,Engineering,Mailchimp
+2026-02-06,Travel,365.05,Sales,United Airlines
+2026-02-06,Equipment,1243.39,Engineering,Best Buy
+2026-02-06,Office Supplies,106.45,Sales,Staples
+2026-02-07,Equipment,509.27,Finance,CDW
+2026-02-07,Travel,445.39,Engineering,Lyft
+2026-02-07,IT,68.88,Operations,Datadog
+2026-02-07,it,123.08,Engineering,Datadog
+2026-02-08,IT,389.51,Engineering,Atlassian
+2026-02-08,Information Technology,248.43,Operations,Zoom
+2026-02-08,Information Technology,91.16,HR,Microsoft 365
+2026-02-09,Equipment,959.36,Sales,CDW
+2026-02-09,Office Supplies,171.19,Engineering,Staples
+2026-02-09,Office Supplies,173.19,Engineering,Staples
+2026-02-09,Marketing,227.71,Engineering, Mailchimp  
+2026-02-09,IT,1044.68,Engineering,Microsoft 365
+2026-02-09,  Travel ,499.01,Sales,Delta
+2026-02-09,  IT ,120.69,Sales,GitHub
+2026-02-09,Travel,338.15,Sales,Delta
+2026-02-09,Professional Services,4261.19,HR,Reed & Co Legal
+2026-02-09,Travel,163.94,Operations,Marriott
+2026-02-09,Equipment,343.53,Engineering,CDW
+2026-02-09,Equipment,923.57,Engineering,CDW
+2026-02-11,EQUIPMENT,909.21,Sales,Apple
+2026-02-11,IT,840.02,Sales,Notion
+2026-02-11,Marketing,1374.42,Engineering,Google Ads
+2026-02-11,Travel,358.66,Engineering,Delta
+2026-02-11,Marketing,545.05,HR, HubSpot  
+2026-02-11,Marketing,258.16,Engineering,Google Ads
+2026-02-11,Marketing,1275.70,Engineering,Mailchimp
+2026-02-11,Marketing,814.83,Sales,Canva
+2026-02-12,IT,449.28,HR,GitHub
+2026-02-13,MKTG,903.07,Engineering,LinkedIn Ads
+2026-02-13,  Travel ,226.63,Sales,Lyft
+2026-02-13,IT,247.75,Operations,Notion
+2026-02-14,Office Supplies,224.13,Operations,Staples
+2026-02-15,Office Supplies,82.76,Finance,Staples
+2026-02-15,Marketing,1250.27,Engineering,HubSpot
+2026-02-15,Equipment,25000.00,Engineering,Dell
+2026-02-16,IT,601.33,Engineering,Datadog
+2026-02-16,IT,244.93,Engineering,Atlassian
+2026-02-16,Information Technology,401.91,Engineering,AWS
+2026-02-18,Office supplies,93.70,Operations,Office Depot
+2026-02-19, Marketing  ,607.79,Engineering,LinkedIn Ads
+2026-02-19,it,513.64,Operations,Microsoft 365
+2026-02-19,Marketing,1048.31,Sales,LinkedIn Ads
+2026-02-20,IT,666.65,Operations,Microsoft 365
+2026-02-20,Office Supplies,85.08,Sales,Office Depot
+2026-02-20,Equipment,391.55,Finance,CDW
+2026-02-21,Facilities,548.13,HR,Spectrum
+2026-02-21,Marketing,488.66,Sales,HubSpot
+2026-02-22,Office Supplies,45.11,Operations,Office Depot
+2026-02-22, Marketing  ,363.50,Sales,Google Ads
+2026-02-22,Travel,405.75,Operations,Marriott
+2026-02-22,Marketing,649.31,Finance,Meta Ads
+2026-02-22,Travel,175.32,Engineering,United Airlines
+2026-02-23,Travel,602.78,Sales,United Airlines
+2026-02-24,IT,117.94,HR,Zoom
+2026-02-24,Office Supplies,143.36,HR,Staples
+2026-02-24,Office Supplies,128.66,Operations,Office Depot
+2026-02-25,Travel,148.52,Finance,Delta
+2026-02-25,Marketing,958.19,Engineering,Canva
+2026-02-25,Marketing,494.21,Operations,HubSpot
+2026-02-27,IT,468.19,Sales,AWS
+2026-02-27,Travel,285.08,Sales, Marriott  
+2026-02-27,  Equipment ,968.93,HR,Dell
+2026-02-28,Information Technology,236.58,HR,Datadog
+2026-02-28,I.T.,429.53,Sales,AWS
+2026-02-28,Equipment,247.92,Operations,Dell
+2026-02-28,it,227.22,HR, AWS  
+2026-02-28,Marketing,399.94,Sales, HubSpot  
+2026-03-01,Marketing,389.93,Sales,Canva
+2026-03-01,Facilities,985.93,Engineering,Comcast Business
+2026-03-01,IT,683.15,Operations,Notion
+2026-03-02,Office Supplies,62.33,Operations,Amazon Business
+2026-03-03,Marketing,331.69,HR,Meta Ads
+2026-03-03,Travel,768.41,HR,Lyft
+2026-03-03,IT,262.58,Engineering,Zoom
+2026-03-04,Equipment,455.20,Engineering,Best Buy
+2026-03-04,Equipment,467.73,HR,Apple
+2026-03-04,Marketing,562.68,Finance,LinkedIn Ads
+2026-03-05,Marketing,563.93,Operations,LinkedIn Ads
+2026-03-05,Travel,579.06,Engineering,Marriott
+2026-03-05,IT,116.66,Sales,Atlassian
+2026-03-06,Facilities,983.53,Engineering,Comcast Business
+2026-03-07,TRAVEL,475.73,Engineering,Marriott
+2026-03-08,Marketing,619.88,HR,Google Ads
+2026-03-09,Equipment,413.95,Finance,Dell
+2026-03-10,Office Supplies,153.74,Engineering,Amazon Business
+2026-03-10,IT,117.54,Engineering,Microsoft 365
+2026-03-10, Travel  ,470.05,Operations,Lyft
+2026-03-10,Marketing,434.76,Sales,Meta Ads
+2026-03-11,Marketing,684.07,Operations,Mailchimp
+2026-03-11,  OFFICE SUPPLIES ,241.85,HR,Office Depot
+2026-03-11,Travel,757.67,HR,Booking.com
+2026-03-12,Facilities,1310.54,Sales,WeWork
+2026-03-12,Facilities,790.28,Sales,Comcast Business
+2026-03-12,Professional Services,1934.51,Finance,Mercer Consulting
+2026-03-12,IT,1004.30,Sales,AWS
+2026-03-13,IT,447.33,Finance,GitHub
+2026-03-14,Equipment,356.47,Sales,Dell
+2026-03-14,Equipment,922.06,Engineering,CDW
+2026-03-14,IT,1175.06,Engineering,Salesforce
+2026-03-15,Office Supplies,133.05,Engineering,Amazon Business
+2026-03-15,Facilities,1532.82,Operations,Pacific Gas & Electric
+2026-03-15,Marketing,256.42,Operations,HubSpot
+2026-03-15,IT,1136.14,Engineering,AWS
+2026-03-15,Equipment,712.07,Operations,Best Buy
+2026-03-16,IT,306.37,Operations,Zoom
+2026-03-17,IT,289.06,Sales,Datadog
+2026-03-17,Facilities,1013.94,HR,WeWork
+2026-03-17,Travel,230.72,Operations,Lyft
+2026-03-18,Office Supplies,195.75,HR,Office Depot
+2026-03-18,Marketing,32000.00,Sales,Google Ads
+2026-03-18,Office Supplies,19.23,Operations,Office Depot
+2026-03-18,Travel,436.21,Engineering,Delta
+2026-03-18,it,851.37,Finance,Notion
+2026-03-18,Travel,808.00,Engineering,Uber
+2026-03-18,Office Supplies,116.80,Engineering,Staples
+2026-03-19,Office Supplies,218.85,HR,Staples
+2026-03-20,IT,402.24,Engineering,GitHub
+2026-03-20,Travel,818.87,Engineering,Booking.com
+2026-03-20,Travel,240.79,Sales,Delta
+2026-03-20,IT,131.92,Engineering,Slack
+2026-03-21,Marketing,627.51,Operations,Canva
+2026-03-21,IT,338.65,Operations,Zoom
+2026-03-21,Travel,525.31,Operations,Lyft
+2026-03-21,Marketing,747.50,Sales,LinkedIn Ads
+2026-03-21,Equipment,301.78,Finance,Apple
+2026-03-21,IT,532.51,Sales,Zoom
+2026-03-22,Marketing,483.09,Finance,HubSpot
+2026-03-22,Marketing,986.89,Finance,Mailchimp
+2026-03-22,IT,677.33,Engineering,Slack
+2026-03-22,IT,81.54,Operations,GitHub
+2026-03-23, Office Supplies  ,219.93,Operations,Office Depot
+2026-03-23,Marketing,960.96,Finance,HubSpot
+2026-03-24,Travel,394.14,Finance,Marriott
+2026-03-24,Facilities,906.12,Operations,WeWork
+2026-03-24,Facilities,1050.63,Sales, Spectrum  
+2026-03-24,Office Supplies,174.78,Sales,Amazon Business
+2026-03-24,IT,581.15,Engineering,Salesforce
+2026-03-25,Professional Services,4112.90,Finance,Deloitte
+2026-03-25,Travel,203.52,Engineering,Delta
+2026-03-25,Office Supplies,29.32,Engineering,Amazon Business
+2026-03-25,IT,737.33,HR,Zoom
+2026-03-25,Equipment,444.63,Engineering,Apple
+2026-03-25,Equipment,911.13,HR,CDW
+2026-03-26,Facilities,1672.09,Operations,Spectrum
+2026-03-26,IT,710.15,Sales,GitHub
+2026-03-26,IT,179.58,Sales,Microsoft 365
+2026-03-28,Marketing,166.72,Engineering,Mailchimp
+2026-03-28,Facilities,2071.86,Finance,Spectrum
+2026-03-28,Marketing,723.45,Operations,Canva
+2026-03-28,Office Supplies,122.85,Sales,Staples
+2026-03-28,Facilities,2262.84,Sales,Pacific Gas & Electric
+2026-03-28,Office Supplies,68.84,HR,Office Depot
+2026-03-29,Travel,179.32,Engineering,Lyft
+2026-03-29,IT,564.13,Operations,Atlassian
+2026-03-30,Office Supplies,142.41,Sales,Amazon Business
+2026-03-30,Travel,189.64,Engineering,Booking.com
+2026-03-30,Travel,305.14,Engineering,Uber
+2026-03-30,FACILITIES,,HR,Pacific Gas & Electric
+2026-03-31,Travel,200.05,HR,Marriott
+2026-03-31,Office Supplies,81.99,HR,Office Depot
+2026-03-31,Facilities,811.26,Engineering,Pacific Gas & Electric
+2026-03-31,Marketing,1071.42,Engineering,HubSpot
+2026-04-01,Marketing,1057.00,Finance,Mailchimp
+2026-04-01,Information Technology,298.32,Sales,GitHub
+2026-04-01,Office Supplies,240.09,Operations,Office Depot
+2026-04-01,Marketing,645.65,Engineering,Mailchimp
+2026-04-02,it,101.55,Finance,Salesforce
+2026-04-02,Travel,555.59,Sales,Delta
+2026-04-02,Travel,769.84,Sales,Delta
+2026-04-02,Travel,497.05,Engineering,Delta
+2026-04-03,Marketing,517.46,Finance,Google Ads
+2026-04-03,IT,331.20,Operations,Zoom
+2026-04-03,Office Supplies,97.52,Sales,Office Depot
+2026-04-04,Facilities,811.15,Operations,Pacific Gas & Electric
+2026-04-05,Marketing,360.85,Sales,Google Ads
+2026-04-05,Travel,585.15,HR,Booking.com
+2026-04-05,Marketing,289.23,Engineering,HubSpot
+2026-04-05,MARKETING,241.01,Sales,Mailchimp
+2026-04-06,IT,178.55,Finance,Atlassian
+2026-04-06,Marketing,359.80,HR,Meta Ads
+2026-04-06,IT,416.63,Operations,Salesforce
+2026-04-07,Travel,184.22,Finance,Uber
+2026-04-07,IT,370.08,Sales,Atlassian
+2026-04-07,IT,292.74,Sales,Notion
+2026-04-07,it,480.44,Sales,Notion
+2026-04-07,Travel,154.42,Engineering,Marriott
+2026-04-08,MKTG,641.93,Sales,HubSpot
+2026-04-08,IT,386.06,HR, Datadog  
+2026-04-08,EQUIPMENT,467.36,Sales,Apple
+2026-04-08,Office supplies,123.99,Finance,Staples
+2026-04-08,Office Supplies,98.68,Finance,Amazon Business
+2026-04-09,Office Supplies,124.86,Sales,Office Depot
+2026-04-09, professional services  ,1119.98,Operations,Mercer Consulting
+2026-04-09,Office Supplies,83.70,Engineering,Staples
+2026-04-10,Office Supplies,25.53,Engineering,Office Depot
+2026-04-10,Office supplies,34.57,Sales,Staples
+2026-04-10,Equipment,1038.13,Operations,Dell
+2026-04-10,Marketing,425.59,HR,HubSpot
+2026-04-10,facilities,567.03,Operations,Comcast Business
+2026-04-10,  Travel ,608.33,Engineering,Lyft
+2026-04-10,Office Supplies,153.23,Finance,Staples
+2026-04-10,Marketing,455.51,Finance,Canva
+2026-04-10,facilities,659.78,Sales,Spectrum
+2026-04-11,Marketing,505.17,Operations,Mailchimp
+2026-04-11,it,689.64,Engineering,Slack
+2026-04-12,Professional Services,1824.21,HR,Anderson Tax LLP
+2026-04-12,Travel,549.07,Engineering,United Airlines
+2026-04-12,Marketing,192.61,Operations,LinkedIn Ads
+2026-04-14,Marketing,284.62,HR,Google Ads
+2026-04-14,it,272.89,Sales,Microsoft 365
+2026-04-15,facilities,1432.26,Engineering,Comcast Business
+2026-04-15,Facilities,1747.29,Sales,Spectrum
+2026-04-15,Office Supplies,45.92,Finance,Office Depot
+2026-04-16,IT,311.92,HR,GitHub
+2026-04-16,Travel,532.40,Sales,Uber
+2026-04-16,Marketing,476.15,Engineering,Canva
+2026-04-17,MARKETING,1345.25,Engineering,Mailchimp
+2026-04-18,Travel,401.56,Engineering,United Airlines
+2026-04-19,IT,603.77,Sales,Datadog
+2026-04-19,Office Supplies,81.72,Operations,Office Depot
+2026-04-20,Marketing,569.64,Finance,HubSpot
+2026-04-20,Professional Services,2430.16,HR,Reed & Co Legal
+2026-04-20,Marketing,289.54,Sales,LinkedIn Ads
+2026-04-20,Facilities,1434.20,Sales,Spectrum
+2026-04-20,  Marketing ,396.49,Sales,Google Ads
+2026-04-21,TRAVEL,272.11,Finance,United Airlines
+2026-04-22,Facilities,1260.42,Sales,Pacific Gas & Electric
+2026-04-22,IT,526.23,Engineering,Zoom
+2026-04-23,Travel,198.19,Sales,Delta
+2026-04-24,Professional Services,5900.19,Engineering,Reed & Co Legal
+2026-04-25,Facilities,729.49,Finance,WeWork
+2026-04-25,Travel,278.65,Sales,Delta
+2026-04-26,Office Supplies,136.45,Sales,Office Depot
+2026-04-26,FACILITIES,1062.90,Engineering,Comcast Business
+2026-04-26,Office Supplies,179.56,Engineering,Staples
+2026-04-26,Equipment,987.69,Sales,Apple
+2026-04-27,Marketing,279.99,Sales,Meta Ads
+2026-04-27,TRAVEL,713.63,Engineering,Marriott
+2026-04-27,IT,163.52,Engineering,Slack
+2026-04-27,Travel,370.74,Finance,United Airlines
+2026-04-28,Facilities,1521.66,HR,Comcast Business
+2026-04-28,IT,196.77,Engineering,Salesforce
+2026-04-28,equipment,314.05,Engineering,Dell
+2026-04-28,Travel,185.54,Engineering,Uber
+2026-04-29,Travel,239.02,Sales,Marriott
+2026-04-29,Travel,348.00,HR,United Airlines
+2026-04-29,Marketing,310.70,HR,Google Ads
+2026-04-29, Travel  ,488.17,Engineering,Delta
+2026-04-29,IT,188.41,Sales,Atlassian
+2026-04-29,Facilities,275.71,Finance,Pacific Gas & Electric
+2026-04-30,Facilities,1112.49,Operations,Comcast Business
+,Marketing,171.70,HR,LinkedIn Ads
+,Facilities,571.52,Operations,WeWork
+,Facilities,689.18,Engineering,Pacific Gas & Electric
+,Office Supplies,202.04,Sales,Amazon Business
+, Facilities  ,1512.47,Engineering,WeWork
